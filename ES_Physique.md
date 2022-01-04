@@ -130,3 +130,78 @@ Sans effet de serre naturel, la température moyenne de la Terre serait de -15°
 
 Les activités humaines dégagent du dioxyde de carbone, ce qui renforce l'effet de serre et engendre le réchauffement climatique, ce qui provoque la fonte des glaces et la montée des eaux. Comme vu précédemment, le réchauffement est alors accru, par la diminution de l'albédo terrestre.
 
+## Chapitre 5
+
+- **Un atome** est une entité électriquement neutre constituant la matière constitué d'un noyau chargé positivement autour duquel gravitent des électrons chargés négativement.
+
+- **Une molécule** est un édifice électriquement neutre constitué d'un assemblage d'atomes liés entre eux par des liaisons covalentes
+
+- **Un ion** est une entité atomique ou moléculaire chargée positivement (cations) ou négativement (anions) suite à une perte/un gain d'électron ou de proton
+
+### I. De la structure microscopique aux propriétés macroscopiques
+
+#### Les cristaux de sel
+
+Le sel de table ou chlorure de sodium est un cristal constitué d'un arrangement régulier d'ions chlorure $Cl^-$ et d'ions sodium $Na^+$
+
+Le professeur a réalisé l'expérience suivante : il a laissé tremper un fil dans une solution aqueuse saturée en sel pendant toutes les vacances.
+
+**1. Rappeler ce qu'est une solution aqueuse saturée en sel**
+
+Une solution aqueuse est une solution dont le solvant est l'eau. Elle est saturée en sel, c'est à dire qu'on ne peut plus y dissoudre de sel.
+
+**2. Que s'est-il passé durant l'été ?**
+
+L'eau s'est évaporée.
+
+**3. Quelle forme géométrique reconnaissez-vous dans ces cristaux de sel ?**
+
+Des cubes
+
+**4. On donne ci-après la photo de cristaux de sel obtenus au microscope avec un grossissement. Retrouvez-vous la même forme géométrique à l'échelle microscopique.**
+
+Oui, on y voit des cubes
+
+**5. On appelle halite le sel minier trouvé dans des mines de sel. Grâce au logiciel "Minusc", le professeur affiche au tableau une maille de cristal de sel (halite) en représentation 3D compacte puis éclatée.**
+
+*a. Quel est l'intérêt de la représentation éclatée ?*
+
+*b. Quelle est la géométrie de la maille de sel ?*
+
+*c. Conclusion sur la structure microscopique de sel :*
+
+Le sel est constituée d'ions chlorure et d'ions sodium placés en alternance au sein d'un réseau de mailles cubiques.
+
+#### 2. Généralisation : définition d'un cristal
+
+Les cristaux sont des assemblages en trois dimensions d'entités chimiques présentant [...]
+
+**1. Donner la définition d'une maille élémentaire.**
+
+La plus petite structure tridimensionnelle à partir de laquelle on peut reconstituer le cristal par répétition.
+
+**2. De quoi dépend la forme macroscopique d'un cristal ?**
+
+De la forme initiale de la maille élémentaire.
+
+**3. À l'aide du logiciel Minusc, vérifier la forme de maille de l'aragonite et de la calcite.**
+
+- Aragonite : orthorombique
+- Calcite : rhomboédrique
+
+**4. Pourquoi dit-on que l'aragonite et le calcite sont deux minéraux différents ? À quoi est-ce dû ?**
+
+Ce sont des cristaux différents car ils n'ont pas les mêmes propriétés physiquo-chimiques différentes, cela est dû à une forme de maille élémentaire différente.
+
+**5. Classer les composants du moins dur au plus dur : cuivre, apatite, aragonite, calcite, gypse**
+
+- Gypse
+- Calcite
+- Cuivre
+- Aragonite
+- Apatite
+
+**6. Conclure sur ce qui détermine les propriétés macroscopiques des minéraux.**
+
+Elles sont déterminées par la composition du cristal et la forme de la maille élémentaire.
+
