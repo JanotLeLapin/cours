@@ -10,5 +10,5 @@ Après la défaite définitive en 1815, les puissances victorieuses se réunisse
 
 #### a - Le congrès de Vienne
 
-
+Mazzini est un exemple d'intellectuel favorable aux idées nationales et libérales. Il veut réaliser l'unité de l'Italie divisée en plusieurs États en partie contrôlée par l'Église catholique. Il passe une partie de sa vie en exil, comme d'autres opposants. Ses livres ont inspiré des mouvements nationalistes du XIXème mais aussi du XXème siècle. Il s'appuie sur des groupes souvent clandestins, les membres de Jeune Italie qui diffusent leurs idées dans toute la société.
 
