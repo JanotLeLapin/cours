@@ -32,3 +32,17 @@
 - seine Daten respektieren
 - ein Posting kommentieren
 
+#### Page 62
+
+**1)**
+
+Ich würde ausgehen und spielen, oder ich würde aufräumen.
+
+**4)**
+
+Du solltest nich deutsche Vokabeln mit einer App lernen.
+
+Es kann gefärlich sein, ein kurzes Passwort zubenutzen.
+
+Es ist praktisch sich auf seinem V=Slartphone Videos zuanschauen
+
