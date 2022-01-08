@@ -1,5 +1,26 @@
 # Français
 
+### Méthodologie
+
+**70% d'acquis** :
+
+- Intro
+- Conclusion
+
+3 étapes :
+
+- Amener le sujet
+- Problématique
+- Annoncer le plan
+
+**Parties (axes)** : Thèses
+
+- I
+- II
+- III
+
+ON NE PREND LA DISSERTATION QUE SI ON EST SÛR DE SES CONNAISSANCES SUR L'OEUVRE QUI TOMBE.
+
 ### I - Don Salluste
 
 Don Salluste veut se venger de la reine d'Espagne et veut que son neveu Don César soit son complice. Pour ce faire :
@@ -23,4 +44,22 @@ Le XVIe (16 ème) siècle :
 **1453** : Chute de Constantinople, fin de l'empire byzantin.
 
 On cherche de nouvelles voies maritimes pour remplacer les produits que fournissaient Constantinople.
+
+**Texte n°1** : M. de MONTAIGNE, _Essais_, "De l'institution des enfants" 26.
+
+### Introduction
+
+**Avant** : Petite noblesse, son principal attout est d'être le fils de Raymond, un humaniste intégral. Il reçoit une éducation humaniste basée sur la douceur et l'écoute. Montaigne a droit à un précepteur spécialisé, d'origine Allemande bilingue en Latin, qui lui enseigne le Latin en première langue.
+
+Il doit faire des études de droit, il est très (un peu trop) ami avec Étienne de LA BOETIE.
+
+**1580-1581** : Le voyage de Montaigne :
+
+- Paris
+- L'Allemagne
+- L'Italie
+
+Il cherche les zoo les plus cool d'Italie.
+
+Son voyage est interrompu, il est nommé maire.
 
