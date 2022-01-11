@@ -271,9 +271,31 @@ $u_n = 81 * 1/3 ^ n$
 - $u_{10} = 8$
 - $u_8 = 2$
 
-$q = \frac {u_{10}} {u_8^{10-8}} = 2$
+Calculons la raison
 
-$u_0 = \frac {u_n} {q^n} = \frac {u_8} {q^8} = \frac {2} {2^8} = \frac 2 {256} = \frac 1 {128}$
+$u_n = u_0 * q^n$
 
-$u_n = \frac 1 {128} * 2$
+$u_{10} = u_0 * q^{10} = 8$
+
+$u_8 = u_0 * q^8 = 2$
+
+$\frac {u_0 * q^{10}} {u_0 * q^8} = \frac 8 2$
+
+$\frac {q^{10}} {q^8} = \frac 8 2 = 4$
+
+$q^2 = 4$
+
+$q = \sqrt 4$
+
+$q = 2$
+
+Calculons le terme initial
+
+$u_n = u_p * q^{n-p}$
+
+$u_0 = u_8 * q^{-8}$
+
+$u_0 = 2 * 2^{-8} = 2^{-7} = \frac 1 {2^7} = \frac 1 {128}$
+
+Donc : $u_n = \frac 1 {128} * 2^n$
 
