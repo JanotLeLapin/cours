@@ -240,5 +240,40 @@ $v_7 = 3,834 * 10^{-12}$
 
 **7)**
 
-$u_n = - \frac 4 7 * 7^n$
+*1*
+
+- $u_1 = -4$
+- $u_2 = -28$
+
+On sait que pour $(u_n) _ {n \in N}$ une suite géométrique, $q = \frac {u_{n+1}} {u_n}$
+
+Donc $q = \frac {u_2} {u_1} = \frac {-28} {-4} = 7$
+
+On sait aussi que pour $(u_n) _ {n \in N}$ une suite géométrique, $u_n = \frac {u_{n+1}} q$
+
+Donc $u_0$ vaut $\frac {u_1} q = \frac {-4} 7$
+
+Ainsi $u_n = - \frac 4 7 * 7^n$
+
+*2*
+
+- $u_5 = \frac 1 3$
+- $u_7 = \frac 1 {27}$
+
+$q = \frac 1 3$
+
+$u_0 = \frac {u_n} {q^n} = \frac {u_5} {q^5} = \frac {\frac 1 3} {\frac 1 3 ^5} = 81$
+
+$u_n = 81 * 1/3 ^ n$
+
+*3*
+
+- $u_{10} = 8$
+- $u_8 = 2$
+
+$q = \frac {u_{10}} {u_8^{10-8}} = 2$
+
+$u_0 = \frac {u_n} {q^n} = \frac {u_8} {q^8} = \frac {2} {2^8} = \frac 2 {256} = \frac 1 {128}$
+
+$u_n = \frac 1 {128} * 2$
 
