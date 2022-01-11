@@ -58,3 +58,37 @@ On sait que $A_{\lambda}$ vaut $0.5$, on résoud donc l'équation :\
 $0.05 = c * 2.3 * 10^4L.mol^{-1}.cm^{-1}$\
 $c = 0.05 / 2.3 * 10^4L.mol^{-1}.cm^{-1}$
 
+## Ondes mécaniques
+
+### TP I - Découverte de l'oscilloscope
+
+**1) Dire à quoi servent les boutons notés sur la photo de l'oscilloscope**
+
+- a) Interagir avec le menu
+- b) Décaler le signal sur l'axe des ordonnées
+- c) Sélectionner la voie et le menu correspondant à la voie d'entrée d'oscilloscope
+- d) Modifier la valeur d'un carreau sur l'axe des ordonnées
+- e) Décaler le signal sur l'axe des abcsisses
+- f) Temps pris en compte sur l'axe des abcsisses
+
+**3) Quelle grandeur correspond à l'axe des abscisses ? Avec quelle unité ?**
+
+En abscisse sont mesurées des valeurs de temps en secondes, millisecondes ou microsecondes.
+
+**5) Quelle grandeur correspond à l'axe des ordonnées ? Avec quelle unité ?**
+
+En ordonnée se mesure une Tension en volt, millivolt ou microvolt.
+
+**7) La fréquence appelée $f$ est un paramètre que l'on calcule grâce à la relation $f = 1/T$**
+
+En moyenne le signal a une période T de 100 microsecondes = $100 * 10^{-6} = 1.00 * 10^{-4}s$
+
+**8) Calculer à l'aide de la valeur T précédente la valeur de $f$. Corresond-elle bien à ce qui est affiché à l'écran ?**
+
+- $f$ en Hz
+- $T = 1.00 * 10^{-4}$ en s
+
+$f = \frac 1 T$
+
+Donc $f = \frac 1 {1.00 * 10^{-4}} = 10000$ Hz $= 10$ kHz
+
