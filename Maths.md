@@ -43,6 +43,51 @@ $x_2 = 1.39$
 |signes de $2x+1$                     |-        |/    |   |-           |-           |-    |
 |signes de $\frac{f(x)}{(3x+5)(2x+1)}$|+        |0    |   |-           |+           |+    |
 
+**Exercice**
+
+$f(x) = \frac {-3(x-5)(2x+3)} {(4x^2+3)(\sqrt {-3x+9})}$
+
+Déterminer l'ensemble de définitions de $f(x)$
+
+On résoud $-3x+9>0$
+
+$-3x>-9$
+
+$x < \frac{-9}{-3}$
+
+$x < 3$
+
+On résoud $4x^2+3=0$
+
+$\frac {4x^2} 4 = -\frac 3 4$
+
+$x^2 = -\frac 3 4$
+
+Aucune solution à cette équation, $x^2$ ne peut pas être négatif.
+
+L'ensemble de définition de f vaut :
+
+$]-\infin;3[$
+
+On résoud $2x+3 = 0$
+
+$2x = -3$
+
+$x = \frac {-3} 2$
+
+$x-5 = 0$
+
+$x = 5$
+
+|$x$            |$-\infin$| |$-\frac 3 2$| |$3$|
+|---------------|---------|-|------------|-|---|
+|$\sqrt {-3x+9}$|         |+|            |+|
+|$-3$           |         |-|            |-|
+|$x-5$          |         |-|            |-|
+|$2x+3$         |         |-|0           |+|
+|$4x^2+3$       |         |+|            |+|
+|$f(x)$         |         |-|0           |+|
+
 ### I - Définition et généralités
 
 **Définition** : Soit $(u_n) _ {n \in N}$ une suite, et soit $q \in R$ un réel fixé. La suite $(u_n)$ est dite *géométrique de raison $q$* si pour tout $n \in N$ : $u _ {n+1} = u_n * q$
@@ -105,6 +150,40 @@ Soit $(u_n) _ {n \in N}$ une suite géométrique de raison $q$ avec $q$ un réel
 
 $u_n = u_0 * q^n$
 
+Soit $(u_n)_ {n \in N}$ une suite géométrique de raison $q$, avec $q \in R$.
+
+Pour tout entier naturel $n$ et $p$, on a l'égalité suivante :
+
+$u_n = u_p * q^{n-p}$
+
+**Exemples**
+
+Soit $a(n) _ {n \in N}$ une suite géométrique de raison $\frac 1 2$ et telle que $a_6 = 28$
+
+Déterminer $a_{10}$
+
+On pose : $n = 10$ et $p = 6$.
+
+Comme $(a_n)$ est géométrique de raison $\frac 1 2$ et telle que : $a_6 = 28$ ; on a :
+
+$a_{10} = a_6 * (\frac 1 2)^{10 - 6}$
+
+$a_{10} = 28 * (\frac 1 2)^{10 - 6}$
+
+$a_{10} = \frac 7 4$
+
+Le terme d'indice 10 de la suite $(a_n)$ vaut $\frac 7 4$
+
+**TRUC IMPORTANT**
+
+Pour résoudre  $x^2 = a$ avec $a \in R$
+
+$a < 0$ : impossible : aucune solution.
+
+$a = 0$ : une seule solution $x = 0$
+
+$a > 0$ : $x = \sqrt a$ ou $x = - \sqrt a$, deux solutions
+
 #### Exercices
 
 **1)**
@@ -141,17 +220,25 @@ $w_1 = 5 ^ 1 + 2 = 5 + 2 = 7$
 
 $w_2 = 5 ^ 2 + 2 = 25 + 2 = 27$
 
-$w_2 / w_1 = 27 / 7$ est différent de $w_1 / w_0 = 7 / 3$, la suite n'est donc pas arithmétique.
+$w_2 / w_1 = 27 / 7$ est différent de $w_1 / w_0 = 7 / 3$, la suite n'est donc pas géométrique.
 
 **5)**
 
 $u_n = 1.5 * (-4)^n$
 
+$u_{10} = 1.5 * (-4)^{10}$
+
 $u_{10} = 1572864$
 
 **6)**
 
-$v_n = -3 * (0.02)^n$
+$v_n = -3 * 0.02^n$
+
+$v_7 = -3 * 0.02^7$
 
 $v_7 = 3,834 * 10^{-12}$
+
+**7)**
+
+$u_n = - \frac 4 7 * 7^n$
 
