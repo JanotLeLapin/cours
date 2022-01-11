@@ -46,3 +46,7 @@ Es kann gefärlich sein, ein kurzes Passwort zubenutzen.
 
 Es ist praktisch sich auf seinem V=Slartphone Videos zuanschauen
 
+#### Eine Woche ohne Handy
+
+Wenn ich habe eine woche ohne Handy, ich aus gehen und mit meine Freunde spielen, ich meine Schlafzimmer aufgeräumt und ich meine Klavier spielen.
+
