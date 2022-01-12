@@ -299,3 +299,24 @@ $u_0 = 2 * 2^{-8} = 2^{-7} = \frac 1 {2^7} = \frac 1 {128}$
 
 Donc : $u_n = \frac 1 {128} * 2^n$
 
+**Supp**
+
+Soit $(a_n) _ {n \in N}$ une suite géométrique temme que :
+
+$a_2 = 32$ et $a_6 = 2$
+
+Déterminer la ou les raisons possibles
+
+$a_n = a_0 * q^n$
+
+$a_2 = a_0 * q^2 = 32$
+
+$a_6 = a_0 * q^6 = 2$
+
+$\frac {a_0 * q^6} {a_0 * q^2} = \frac 2 {32}$
+
+$q^4 = \frac 1 {16}$
+
+$q^4 - \frac 1 {16} = 0$
+
+
