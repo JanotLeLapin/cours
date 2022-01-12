@@ -12,3 +12,9 @@ Après la défaite définitive en 1815, les puissances victorieuses se réunisse
 
 Mazzini est un exemple d'intellectuel favorable aux idées nationales et libérales. Il veut réaliser l'unité de l'Italie divisée en plusieurs États en partie contrôlée par l'Église catholique. Il passe une partie de sa vie en exil, comme d'autres opposants. Ses livres ont inspiré des mouvements nationalistes du XIXème mais aussi du XXème siècle. Il s'appuie sur des groupes souvent clandestins, les membres de Jeune Italie qui diffusent leurs idées dans toute la société.
 
+### II - 1848, Le Printemps des Peuples
+
+#### a - La révolution de 1848 en France
+
+Après 1830, une monarchie libérale s'est installée en France avec Louis Philippe comme roi. Ce régime accorde un peu plus de libertés et quelques droits politiques, mais le suffrage reste censitaire, une petite minorité participe aux élections. Ce régime finit par déplaire aux français. En février 1848, le peuple de Paris se révolte, dresse des barricades, le roi doit abdiquer. La seconde république est proclamée et organise des élections au suffrage universel masculin.
+
