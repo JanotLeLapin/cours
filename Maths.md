@@ -319,4 +319,44 @@ $q^4 = \frac 1 {16}$
 
 $q^4 - \frac 1 {16} = 0$
 
+## III - Sens de variations d'une suite géométrique
+
+**Proptiété**
+
+Soit $(u_n) _ {n \in N}$ une suite géométrique de raison $q$ avec $q \in R$ et de premier terme $u_0$.
+
+L'allure de la représentation d'une suite géométrique est appellée croissance ou décroissance exponentielle.
+
+|           |$u_0 < 0$                                    |$u_0 > 0$                |$u_0 = 0$|
+|-----------|---------------------------------------------|-------------------------|---------|
+|$q<0$      |$(u_n)$ n'est pas monotone.                  |Pas monotone             |Constante|
+|$q=0$      |$(u_n)$ est constante (c'est la suite nulle).|Constante                |Constante|
+|$0 < q < 1$|$(u_n)$ est croissante.                      |$(u_n)$ est décroissante.|Constante|
+|$q=1$      |$(u_n)$ est constante de valeur $u_0$.       |Constante                |Constante|
+|$q>1$      |$(u_n)$ est décroissante.                    |$(u_n)$ est croissante.  |Constante|
+
+**Définition**
+
+Une suite monotone est une suite croissante ou décroissante.
+
+**Exemples**
+
+Soit $(u_n) _ {n \in N}$ définie par :
+
+- $u_0 = 1$
+- $u_{n+1} = \frac {u_n} 3$
+
+Déterminer le sens de variations de cette suite.
+
+Pour tout $n \in N$ :
+
+$u_{n+1} = u_n * \frac 1 3$
+
+Par définition $(u_n)$ est géométrique de raison $q = \frac 1 3$
+
+On sait que :
+
+$0 < q < 1$ et $u_0 > 0$.
+
+Donc $(u_n)$ est décroissante.
 
