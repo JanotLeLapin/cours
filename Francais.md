@@ -63,3 +63,13 @@ Il cherche les zoo les plus cool d'Italie.
 
 Son voyage est interrompu, il est nommé maire.
 
+Dans l'Antiquité, le pédagogosse est l'esclave dont le rôle est d'accompagner l'enfant à l'école.
+
+Jean-Jacques Rousseau est le deuxième philosophe travaillant sur l'amélioration de la pédagogie.
+
+Michel Montaigne décrit son écriture comme : "à sauts et à gambades". Il ne fait pas particulièrement attention à la structure de son texte, s'il veut revenir sur une idée il le fait.
+
+On peut voir le premier paragraphe comme une introduction.
+
+Montaigne insiste sur le fait que le précepteur soit pédagogue, et ne fasse pas que contrôler les connaissances de l'élève comme le fait le système scolaire de son époque. Il s'agit d'une nouvelle perception de l'éducation.
+
