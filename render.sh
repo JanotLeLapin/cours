@@ -1,5 +1,6 @@
 #!/bin/sh
 
+mkdir -p pages
 files=$(find -maxdepth 1 -type f -name '*.md')
 
 for f in $files
