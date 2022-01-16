@@ -16,3 +16,5 @@ Secret: founder of WikiLeaks, an online platform for whistleblowers. They reveal
 
 **5)** It's a cultural change for humanity that he believes is dangerous.
 
+### Watch a video made by Anonymous, and brainstorm what you understand.
+
