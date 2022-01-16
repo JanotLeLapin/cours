@@ -360,3 +360,61 @@ $0 < q < 1$ et $u_0 > 0$.
 
 Donc $(u_n)$ est décroissante.
 
+## Fonction du second degré
+
+**Définition**
+
+Une fonction polynôme du second degré est définie sur $R$ par :
+
+$f(x) = ax^2 + bx + c$
+
+Où les coefficients $a$, $b$ et $c$ sont des réels données avec $a \neq 0$
+
+**Exemples**
+
+Les trois fonctions suivantes sont des fonctions polynômes de degré 2.
+
+- $f(x) = 3x^2 - 7x + 3$ avec $a = 3$, $b = -7$ et $c = 3$
+- $g(x) = \frac 1 2 x^2 - 5x + \frac 3 5$ avec $a = \frac 1 2$, $b = -5$ et $c = \frac 3 5$
+- $h(x) = 4 - 2x^2$ avec $a = -2$, $b = 0$ et $c = 4$
+
+La fonction suivante est une fonction polynôme de degré 2 sous sa forme factorisée :
+
+- $k(x) = (x - 4)(5 - 2x)$
+
+En la développant, on multiplie $x$ par $2x$ ce qui nous donne $2x^2$, à savoir un monôme du second degré.
+
+**Forme canonique**
+
+$f(x) = ax^2 + bx + c$ peut s'écrire sous sa *forme canonique* :
+
+$f(x) = a(x - \alpha)^2 + \beta$
+
+Où $\alpha$ et $\beta$ sont deux nombres réels.
+
+- Si $a > 0$, $f$ admet un minimum pour $x = \alpha$. Ce minimum est égal à $\beta$.
+- Si $a < 0$, $f$ admet un maximum pour $x = \alpha$. Ce maximul est égal à $\beta$.
+
+$f(x) = ax^2 + bx + c$
+$f$ admet un maximum ou un minimum pour : $\alpha = - \frac b {2a}$
+
+**Représentation graphique**
+
+La représentation d'une fonction polynôme du second degré forme une parabole dont le sommet a pour coordonnées $(- \frac b {2a} ; f(- \frac b {2a}))$
+
+Ce point est le maximum de la fonction $f$ si $a < 0$, et son minimum si $a > 0$.
+
+### Exercices
+
+**Déterminer la forme canonique de chaque trinôme**
+
+*a.* $x^2 - 6x + 2$
+
+Par identification : $a=1;b=-6;c=2$
+
+$\alpha = - \frac b {2a} \Leftrightarrow \alpha = - \frac {-6} 2 \Leftrightarrow \alpha = 3$
+
+$\beta = \alpha^2 - 6\alpha + 2 \Leftrightarrow \beta = 9 - 18 + 2 = -9 + 2 = -7$
+
+$x^2 - 6x + 2 = a(x - 3)^2 - 7$
+
