@@ -4,18 +4,18 @@ Voici mes magnifiques cours de première en spé maths physique NSI
 
 ## Contenu
 
-- [Allemand](Allemand.md.html)
-- [Anglais](Anglais.md.html)
-- [Anglais Euro](Euro.md.html)
-- [DNL](DNL.md.html)
+- [Allemand](janotlelapin.github.io/cours/Allemand.md.html)
+- [Anglais](janotlelapin.github.io/cours/Anglais.md.html)
+- [Anglais Euro](janotlelapin.github.io/cours/Euro.md.html)
+- [DNL](janotlelapin.github.io/cours/DNL.md.html)
 - Enseignement scientifique
-  - [Physique](ES_Physique.md.html)
-  - [SVT](ES_SVT.md.html)
+  - [Physique](janotlelapin.github.io/cours/ES_Physique.md.html)
+  - [SVT](janotlelapin.github.io/cours/ES_SVT.md.html)
 
-- [Français](Français.md.html)
-- [Histoire](Histoire.md.html)
-- [Mathématiques](Maths.md.html)
-- [Physique](Physique.md.html)
+- [Français](janotlelapin.github.io/cours/Francais.md.html)
+- [Histoire](janotlelapin.github.io/cours/Histoire.md.html)
+- [Mathématiques](janotlelapin.github.io/cours/Maths.md.html)
+- [Physique](janotlelapin.github.io/cours/Physique.md.html)
 
 Écrit avec soin par JanotLeLapin
 
