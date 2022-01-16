@@ -92,3 +92,36 @@ $f = \frac 1 T$
 
 Donc $f = \frac 1 {1.00 * 10^{-4}} = 10000$ Hz $= 10$ kHz
 
+### Ondes mécaniques : Première spécialité
+
+#### I - Onde mécanique progressive
+
+**Définition**
+
+une onde mécanique progressive est une perturbation qui se propage dans un milieu sans transport de matière mais avec un transport d'énergie.
+
+Une onde mécanique a besoin d'un support, d'un milieu. Les ondes électromagnétiques (comme la lumière) n'ont pas besoin d'un mileu. Une onde mécanique ne peut donc pas se propager dans le vide !
+
+Une onde mécanique qui ne serait pas progressive (et qui "resterait au même endroit") est qualifié de stationnaire.
+
+**Onde traversale et longitudinale**
+
+Lors du passage d'une onde mécanique, ce sont les atomes et molécules du milieu qui sont mis en mouvement. Selon le mouvement observé par rapport à la direction de propagation de l'onde, on distingue deux types d'ondes mécaniques :
+
+- Si la perturbation est produite dans une direction perpendiculaire à la direction de propagation de l'onde, on dit que l'onde est traversale. (a)
+- Si la perturbation se produit dans la même direction que la propagation, on parle d'une onde longitudinale. (b)
+
+Application : Indiquer la nature traversale ou longitudinale des ondes a et b ci-dessous :
+
+#### Retard et célérité d'une onde
+
+**Définition**
+
+Durée nécessaire à une onde progressive pour parcourir la distance entre deux points. On la note $\tau$ et on l'exprime en secondes.
+
+$\tau = t_b - t_a$
+
+Où $\tau$ représente le retard et $t_b$ et $t_a$ les instants de passage de l'onde en A et B au même point de perturbation.
+
+Application : Une onde méfcanique se propage le long d'une corde. Elle atteint A à un instant $t_a = 30$ s et arrive au même point de sa perturbation en B à $t_b = 40$ s. Calculer le retard de l'onde.
+
