@@ -11,15 +11,12 @@ jobs:
      runs-on: ubuntu-latest
      steps:
        - uses: actions/checkout@v2
-   
        - name: Install pandoc
          run: |
            sudo wget https://github.com/jgm/pandoc/releases/download/2.17.0.1/pandoc-2.17.0.1-1-amd64.deb
            dpkg -i pandoc-2.17.0.1-1-amd64.deb
-                                                      
        - name: Compile Markdown
          run: ./render.sh
-
        - name: Deploy with gh-pages
          run: |
            git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
