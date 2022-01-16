@@ -36,7 +36,7 @@ $x_2 = \frac {-4 - \sqrt {1016}} {20}$
 
 $x_2 = 1.39$
 
-|$x$                                  |$-\infin$|$x_2$| / |$-\frac 5 3$|$-\frac 1 2$|$x_1$|
+|$x$                                  |$-\infty$|$x_2$| / |$-\frac 5 3$|$-\frac 1 2$|$x_1$|
 |-------------------------------------|---------|-----|---|------------|------------|-----|
 |signes de $f$                        |+        |0    |   |-           |-           |-    |
 |signes de $3x+5$                     |-        |/    |   |-           |+           |+    |
@@ -67,7 +67,7 @@ Aucune solution à cette équation, $x^2$ ne peut pas être négatif.
 
 L'ensemble de définition de f vaut :
 
-$]-\infin;3[$
+$]-\infty;3[$
 
 On résoud $2x+3 = 0$
 
@@ -79,7 +79,7 @@ $x-5 = 0$
 
 $x = 5$
 
-|$x$            |$-\infin$| |$-\frac 3 2$| |$3$|
+|$x$            |$-\infty$| |$-\frac 3 2$| |$3$|
 |---------------|---------|-|------------|-|---|
 |$\sqrt {-3x+9}$|         |+|            |+|
 |$-3$           |         |-|            |-|
@@ -417,4 +417,48 @@ $\alpha = - \frac b {2a} \Leftrightarrow \alpha = - \frac {-6} 2 \Leftrightarrow
 $\beta = \alpha^2 - 6\alpha + 2 \Leftrightarrow \beta = 9 - 18 + 2 = -9 + 2 = -7$
 
 $x^2 - 6x + 2 = a(x - 3)^2 - 7$
+
+## Dérivation
+
+**Définition**
+
+Soit A et B deux points de la courbe représentative de $f$ d'abscisses respectives $a$ et $b$.
+
+Le coefficient directeur de la droite (AB) est égal à : $\frac {f(b)-f(a)} {b-a}$
+
+Soit A et M deux points de la courbe représentative de $f$ d'abscisses respectives $a$ et $a+h$.
+
+- Le coefficient directeur de la droite (AM) est égal à : $\frac {f(a+h)-f(a)} {a+h-a} \Leftrightarrow \frac {f(a+h)-f(a)} h$
+- Le coefficient directeur de la tangente vaut $\lim\limits_{h \to 0} \frac {f(a+h)-f(a)} h$.
+
+On dit que la fonction $f$ est *dérivable* en $a$ s'il existe un nombre réel $L$ tel que : $\lim\limits_{h \to 0} \frac {f(a+h) - f(a)} h = L$
+
+$L$ est appelé le *nombre dérivé* de $f$ en $a$ et se note $f'(a)$
+
+La tangente à la courbe $C_f$ au point $A$ est la droite passant par $A$ de pente (coefficient directeur) le nombre dérivé $f'(a)$. Une équation de la tangente à la courbe $C_f$ en A est : $y = f'(a)(x - a) + f(a)$
+
+- Si $f'(x) \leq 0$, alors $f$ est décroissante
+- Si $f'(x) \geq 0$, alors $f$ est croissante
+
+**Exemple**
+
+$f(x) = x^2$
+
+$\frac {f(a+h)-f(a)} {h} = \frac {(a+h)^2 - a^2} h = \frac {a^2 + 2ah + h^2 - a^2} h = \frac {2ah + h^2} h = \frac {2ah} h + \frac {h^2} h = 2a + h$
+
+$\lim\limits_{h \to 0} \frac {f(a+h) - f(a)} h = \lim\limits_{h \to 0} 2a + h = 2a$
+
+Le coefficient de la tangente à la courbe représentative de $f$ pour n'importe quelle abscisse $a$ vaut $2a$.
+
+**Formulaire**
+
+|Fonction $f$                      |Dérivée $f'$                 |
+|----------------------------------|-----------------------------|
+|$f(x) = a$, $a \in R$             |$f'(x) = 0$                  |
+|$f(x) = ax$, $a \in R$            |$f'(x) = x$                  |
+|$f(x) = x^2$                      |$f'(x) = 2x$                 |
+|$f(x) = x^n$, $n \geq 1$          |$f'(x) = nx^{n-1}$           |
+|$f(x) = \frac 1 x$                |$f'(x) = - \frac 1 {x^2}$    |
+|$f(x) = \frac 1 {x^n}$, $n \geq 1$|$f'(x) = - \frac n {x^{n+1}}$|
+|$f(x) = \sqrt x$                  |$f'(x) = \frac 1 {2 \sqrt x}$|
 
