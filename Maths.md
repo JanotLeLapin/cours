@@ -8,7 +8,7 @@ Résoudre : $\frac {4x - 5} {2x + 1} < \frac {x} {3x + 5}$
 
 Dans $R/^{-\frac 1 2; -\frac 5 3}$
 
-$\frac {(3x + 5)} {(3x + 5)} * \frac {4x - 5} {2x + 1} - \frac x {3x + 5} * \frac {(2x + 1)} {2x + 1} < 0$
+$\frac {(3x + 5)} {(3x + 5)} \times \frac {4x - 5} {2x + 1} - \frac x {3x + 5} \times \frac {(2x + 1)} {2x + 1} < 0$
 
 $\frac {(3x + 5)(4x - 5) - x(2x + 1)} {(2x + 1)(3x + 5)} < 0$
 
@@ -20,7 +20,7 @@ On peut définir $f$ par :
 
 $f(x) = 10x^2 + 4x - 25$
 
-$\Delta = b^2 - 4ac = 4^2 - 4 * (-10) * (-25) = 1016$
+$\Delta = b^2 - 4ac = 4^2 - 4 \times (-10) \times (-25) = 1016$
 
 Comme $\Delta > 0$, $f$ admet 2 racines distinctes $x_1$ et $x_2$ :
 
@@ -36,12 +36,12 @@ $x_2 = \frac {-4 - \sqrt {1016}} {20}$
 
 $x_2 = 1.39$
 
-|$x$                                  |$-\infty$|$x_2$| / |$-\frac 5 3$|$-\frac 1 2$|$x_1$|
-|-------------------------------------|---------|-----|---|------------|------------|-----|
-|signes de $f$                        |+        |0    |   |-           |-           |-    |
-|signes de $3x+5$                     |-        |/    |   |-           |+           |+    |
-|signes de $2x+1$                     |-        |/    |   |-           |-           |-    |
-|signes de $\frac{f(x)}{(3x+5)(2x+1)}$|+        |0    |   |-           |+           |+    |
+| $x$                                   | $-\infty$ | $x_2$ | /   | $-\frac 5 3$ | $-\frac 1 2$ | $x_1$ |
+| ------------------------------------- | --------- | ----- | --- | ------------ | ------------ | ----- |
+| signes de $f$                         | +         | 0     |     | -            | -            | -     |
+| signes de $3x+5$                      | -         | /     |     | -            | +            | +     |
+| signes de $2x+1$                      | -         | /     |     | -            | -            | -     |
+| signes de $\frac{f(x)}{(3x+5)(2x+1)}$ | +         | 0     |     | -            | +            | +     |
 
 **Exercice**
 
@@ -79,18 +79,18 @@ $x-5 = 0$
 
 $x = 5$
 
-|$x$            |$-\infty$| |$-\frac 3 2$| |$3$|
-|---------------|---------|-|------------|-|---|
-|$\sqrt {-3x+9}$|         |+|            |+|
-|$-3$           |         |-|            |-|
-|$x-5$          |         |-|            |-|
-|$2x+3$         |         |-|0           |+|
-|$4x^2+3$       |         |+|            |+|
-|$f(x)$         |         |-|0           |+|
+| $x$             | $-\infty$ |     | $-\frac 3 2$ |     | $3$ |
+| --------------- | --------- | --- | ------------ | --- | --- |
+| $\sqrt {-3x+9}$ |           | +   |              | +   |
+| $-3$            |           | -   |              | -   |
+| $x-5$           |           | -   |              | -   |
+| $2x+3$          |           | -   | 0            | +   |
+| $4x^2+3$        |           | +   |              | +   |
+| $f(x)$          |           | -   | 0            | +   |
 
 ### I - Définition et généralités
 
-**Définition** : Soit $(u_n) _ {n \in N}$ une suite, et soit $q \in R$ un réel fixé. La suite $(u_n)$ est dite *géométrique de raison $q$* si pour tout $n \in N$ : $u _ {n+1} = u_n * q$
+**Définition** : Soit $(u_n) _ {n \in N}$ une suite, et soit $q \in R$ un réel fixé. La suite $(u_n)$ est dite _géométrique de raison $q$_ si pour tout $n \in N$ : $u _ {n+1} = u_n \times q$
 
 **Exemples** :
 
@@ -106,11 +106,11 @@ $v_0 = 10 000; v_1 = 1000; v_2 = 100; v_3 = 10; v_4 = 1; v_5 = 0.1$
 
 Montrer qu'une suite est géométrique
 
-Pour tout $n \in N$ ; on définit : $u_n = 2 * 3^n$
+Pour tout $n \in N$ ; on définit : $u_n = 2 \times 3^n$
 
 Pour tout $n \in N$ ; calculons $u_{n+1}$ :
 
-$u_{n+1} = 2 * 3^{(n+1)} = 2 * 3^n * 3^1 = 3 * (2 * 3^n) = 3 * u_n$
+$u_{n+1} = 2 \times 3^{(n+1)} = 2 \times 3^n \times 3^1 = 3 \times (2 \times 3^n) = 3 \times u_n$
 
 La suite est donc géométrique et de raison 3
 
@@ -148,13 +148,13 @@ $u_3 = 54$
 
 Soit $(u_n) _ {n \in N}$ une suite géométrique de raison $q$ avec $q$ un réel fixé. Alors pour tout entier naturel $n$ :
 
-$u_n = u_0 * q^n$
+$u_n = u_0 \times q^n$
 
 Soit $(u_n)_ {n \in N}$ une suite géométrique de raison $q$, avec $q \in R$.
 
 Pour tout entier naturel $n$ et $p$, on a l'égalité suivante :
 
-$u_n = u_p * q^{n-p}$
+$u_n = u_p \times q^{n-p}$
 
 **Exemples**
 
@@ -166,9 +166,9 @@ On pose : $n = 10$ et $p = 6$.
 
 Comme $(a_n)$ est géométrique de raison $\frac 1 2$ et telle que : $a_6 = 28$ ; on a :
 
-$a_{10} = a_6 * (\frac 1 2)^{10 - 6}$
+$a_{10} = a_6 \times (\frac 1 2)^{10 - 6}$
 
-$a_{10} = 28 * (\frac 1 2)^{10 - 6}$
+$a_{10} = 28 \times (\frac 1 2)^{10 - 6}$
 
 $a_{10} = \frac 7 4$
 
@@ -176,7 +176,7 @@ Le terme d'indice 10 de la suite $(a_n)$ vaut $\frac 7 4$
 
 **TRUC IMPORTANT**
 
-Pour résoudre  $x^2 = a$ avec $a \in R$
+Pour résoudre $x^2 = a$ avec $a \in R$
 
 $a < 0$ : impossible : aucune solution.
 
@@ -188,25 +188,25 @@ $a > 0$ : $x = \sqrt a$ ou $x = - \sqrt a$, deux solutions
 
 **1)**
 
-$u_1 = -2 * 3 = -6$
+$u_1 = -2 \times 3 = -6$
 
-$u_2 = -6 * 3 = -18$
+$u_2 = -6 \times 3 = -18$
 
-$u_3 = -18 * 3 = -54$
+$u_3 = -18 \times 3 = -54$
 
-$u_4 = -54 * 3 = -162$
+$u_4 = -54 \times 3 = -162$
 
 **2)**
 
-$v_1 = \frac {1} {2} * -2 = -1$
+$v_1 = \frac {1} {2} \times -2 = -1$
 
-$v_2 = -1 * -2 = 2$
+$v_2 = -1 \times -2 = 2$
 
-$v_3 = 2 * -2 = -4$
+$v_3 = 2 \times -2 = -4$
 
-$v_3 = -4 * -2 = 8$
+$v_3 = -4 \times -2 = 8$
 
-$v_4 = 8 * -2 = 16$
+$v_4 = 8 \times -2 = 16$
 
 **3)**
 
@@ -224,26 +224,26 @@ $w_2 / w_1 = 27 / 7$ est différent de $w_1 / w_0 = 7 / 3$, la suite n'est donc 
 
 **5)**
 
-$u_n = 1.5 * (-4)^n$
+$u_n = 1.5 \times (-4)^n$
 
-$u_{10} = 1.5 * (-4)^{10}$
+$u_{10} = 1.5 \times (-4)^{10}$
 
 $u_{10} = 1572864$
 
 **6)**
 
-$v_n = -3 * 0.02^n$
+$v_n = -3 \times 0.02^n$
 
-$v_7 = -3 * 0.02^7$
+$v_7 = -3 \times 0.02^7$
 
-$v_7 = 3,834 * 10^{-12}$
+$v_7 = 3,834 \times 10^{-12}$
 
 **7)**
 
-*1*
+_1_
 
-- $u_1 = -4$
-- $u_2 = -28$
+-   $u_1 = -4$
+-   $u_2 = -28$
 
 On sait que pour $(u_n) _ {n \in N}$ une suite géométrique, $q = \frac {u_{n+1}} {u_n}$
 
@@ -253,33 +253,33 @@ On sait aussi que pour $(u_n) _ {n \in N}$ une suite géométrique, $u_n = \frac
 
 Donc $u_0$ vaut $\frac {u_1} q = \frac {-4} 7$
 
-Ainsi $u_n = - \frac 4 7 * 7^n$
+Ainsi $u_n = - \frac 4 7 \times 7^n$
 
-*2*
+_2_
 
-- $u_5 = \frac 1 3$
-- $u_7 = \frac 1 {27}$
+-   $u_5 = \frac 1 3$
+-   $u_7 = \frac 1 {27}$
 
 $q = \frac 1 3$
 
 $u_0 = \frac {u_n} {q^n} = \frac {u_5} {q^5} = \frac {\frac 1 3} {\frac 1 3 ^5} = 81$
 
-$u_n = 81 * 1/3 ^ n$
+$u_n = 81 \times 1/3 ^ n$
 
-*3*
+_3_
 
-- $u_{10} = 8$
-- $u_8 = 2$
+-   $u_{10} = 8$
+-   $u_8 = 2$
 
 Calculons la raison
 
-$u_n = u_0 * q^n$
+$u_n = u_0 \times q^n$
 
-$u_{10} = u_0 * q^{10} = 8$
+$u_{10} = u_0 \times q^{10} = 8$
 
-$u_8 = u_0 * q^8 = 2$
+$u_8 = u_0 \times q^8 = 2$
 
-$\frac {u_0 * q^{10}} {u_0 * q^8} = \frac 8 2$
+$\frac {u_0 \times q^{10}} {u_0 \times q^8} = \frac 8 2$
 
 $\frac {q^{10}} {q^8} = \frac 8 2 = 4$
 
@@ -291,13 +291,13 @@ $q = 2$
 
 Calculons le terme initial
 
-$u_n = u_p * q^{n-p}$
+$u_n = u_p \times q^{n-p}$
 
-$u_0 = u_8 * q^{-8}$
+$u_0 = u_8 \times q^{-8}$
 
-$u_0 = 2 * 2^{-8} = 2^{-7} = \frac 1 {2^7} = \frac 1 {128}$
+$u_0 = 2 \times 2^{-8} = 2^{-7} = \frac 1 {2^7} = \frac 1 {128}$
 
-Donc : $u_n = \frac 1 {128} * 2^n$
+Donc : $u_n = \frac 1 {128} \times 2^n$
 
 **Supp**
 
@@ -307,13 +307,13 @@ $a_2 = 32$ et $a_6 = 2$
 
 Déterminer la ou les raisons possibles
 
-$a_n = a_0 * q^n$
+$a_n = a_0 \times q^n$
 
-$a_2 = a_0 * q^2 = 32$
+$a_2 = a_0 \times q^2 = 32$
 
-$a_6 = a_0 * q^6 = 2$
+$a_6 = a_0 \times q^6 = 2$
 
-$\frac {a_0 * q^6} {a_0 * q^2} = \frac 2 {32}$
+$\frac {a_0 \times q^6} {a_0 \times q^2} = \frac 2 {32}$
 
 $q^4 = \frac 1 {16}$
 
@@ -327,13 +327,13 @@ Soit $(u_n) _ {n \in N}$ une suite géométrique de raison $q$ avec $q \in R$ et
 
 L'allure de la représentation d'une suite géométrique est appellée croissance ou décroissance exponentielle.
 
-|           |$u_0 < 0$                                    |$u_0 > 0$                |$u_0 = 0$|
-|-----------|---------------------------------------------|-------------------------|---------|
-|$q<0$      |$(u_n)$ n'est pas monotone.                  |Pas monotone             |Constante|
-|$q=0$      |$(u_n)$ est constante (c'est la suite nulle).|Constante                |Constante|
-|$0 < q < 1$|$(u_n)$ est croissante.                      |$(u_n)$ est décroissante.|Constante|
-|$q=1$      |$(u_n)$ est constante de valeur $u_0$.       |Constante                |Constante|
-|$q>1$      |$(u_n)$ est décroissante.                    |$(u_n)$ est croissante.  |Constante|
+|             | $u_0 < 0$                                     | $u_0 > 0$                 | $u_0 = 0$ |
+| ----------- | --------------------------------------------- | ------------------------- | --------- |
+| $q<0$       | $(u_n)$ n'est pas monotone.                   | Pas monotone              | Constante |
+| $q=0$       | $(u_n)$ est constante (c'est la suite nulle). | Constante                 | Constante |
+| $0 < q < 1$ | $(u_n)$ est croissante.                       | $(u_n)$ est décroissante. | Constante |
+| $q=1$       | $(u_n)$ est constante de valeur $u_0$.        | Constante                 | Constante |
+| $q>1$       | $(u_n)$ est décroissante.                     | $(u_n)$ est croissante.   | Constante |
 
 **Définition**
 
@@ -343,14 +343,14 @@ Une suite monotone est une suite croissante ou décroissante.
 
 Soit $(u_n) _ {n \in N}$ définie par :
 
-- $u_0 = 1$
-- $u_{n+1} = \frac {u_n} 3$
+-   $u_0 = 1$
+-   $u_{n+1} = \frac {u_n} 3$
 
 Déterminer le sens de variations de cette suite.
 
 Pour tout $n \in N$ :
 
-$u_{n+1} = u_n * \frac 1 3$
+$u_{n+1} = u_n \times \frac 1 3$
 
 Par définition $(u_n)$ est géométrique de raison $q = \frac 1 3$
 
@@ -374,26 +374,26 @@ Où les coefficients $a$, $b$ et $c$ sont des réels données avec $a \neq 0$
 
 Les trois fonctions suivantes sont des fonctions polynômes de degré 2.
 
-- $f(x) = 3x^2 - 7x + 3$ avec $a = 3$, $b = -7$ et $c = 3$
-- $g(x) = \frac 1 2 x^2 - 5x + \frac 3 5$ avec $a = \frac 1 2$, $b = -5$ et $c = \frac 3 5$
-- $h(x) = 4 - 2x^2$ avec $a = -2$, $b = 0$ et $c = 4$
+-   $f(x) = 3x^2 - 7x + 3$ avec $a = 3$, $b = -7$ et $c = 3$
+-   $g(x) = \frac 1 2 x^2 - 5x + \frac 3 5$ avec $a = \frac 1 2$, $b = -5$ et $c = \frac 3 5$
+-   $h(x) = 4 - 2x^2$ avec $a = -2$, $b = 0$ et $c = 4$
 
 La fonction suivante est une fonction polynôme de degré 2 sous sa forme factorisée :
 
-- $k(x) = (x - 4)(5 - 2x)$
+-   $k(x) = (x - 4)(5 - 2x)$
 
 En la développant, on multiplie $x$ par $2x$ ce qui nous donne $2x^2$, à savoir un monôme du second degré.
 
 **Forme canonique**
 
-$f(x) = ax^2 + bx + c$ peut s'écrire sous sa *forme canonique* :
+$f(x) = ax^2 + bx + c$ peut s'écrire sous sa _forme canonique_ :
 
 $f(x) = a(x - \alpha)^2 + \beta$
 
 Où $\alpha$ et $\beta$ sont deux nombres réels.
 
-- Si $a > 0$, $f$ admet un minimum pour $x = \alpha$. Ce minimum est égal à $\beta$.
-- Si $a < 0$, $f$ admet un maximum pour $x = \alpha$. Ce maximul est égal à $\beta$.
+-   Si $a > 0$, $f$ admet un minimum pour $x = \alpha$. Ce minimum est égal à $\beta$.
+-   Si $a < 0$, $f$ admet un maximum pour $x = \alpha$. Ce maximul est égal à $\beta$.
 
 $f(x) = ax^2 + bx + c$
 $f$ admet un maximum ou un minimum pour : $\alpha = - \frac b {2a}$
@@ -408,7 +408,7 @@ Ce point est le maximum de la fonction $f$ si $a < 0$, et son minimum si $a > 0$
 
 **Déterminer la forme canonique de chaque trinôme**
 
-*a.* $x^2 - 6x + 2$
+_a._ $x^2 - 6x + 2$
 
 Par identification : $a=1;b=-6;c=2$
 
@@ -428,17 +428,17 @@ Le coefficient directeur de la droite (AB) est égal à : $\frac {f(b)-f(a)} {b-
 
 Soit A et M deux points de la courbe représentative de $f$ d'abscisses respectives $a$ et $a+h$.
 
-- Le coefficient directeur de la droite (AM) est égal à : $\frac {f(a+h)-f(a)} {a+h-a} \Leftrightarrow \frac {f(a+h)-f(a)} h$
-- Le coefficient directeur de la tangente vaut $\lim\limits_{h \to 0} \frac {f(a+h)-f(a)} h$.
+-   Le coefficient directeur de la droite (AM) est égal à : $\frac {f(a+h)-f(a)} {a+h-a} \Leftrightarrow \frac {f(a+h)-f(a)} h$
+-   Le coefficient directeur de la tangente vaut $\lim\limits_{h \to 0} \frac {f(a+h)-f(a)} h$.
 
-On dit que la fonction $f$ est *dérivable* en $a$ s'il existe un nombre réel $L$ tel que : $\lim\limits_{h \to 0} \frac {f(a+h) - f(a)} h = L$
+On dit que la fonction $f$ est _dérivable_ en $a$ s'il existe un nombre réel $L$ tel que : $\lim\limits_{h \to 0} \frac {f(a+h) - f(a)} h = L$
 
-$L$ est appelé le *nombre dérivé* de $f$ en $a$ et se note $f'(a)$
+$L$ est appelé le _nombre dérivé_ de $f$ en $a$ et se note $f'(a)$
 
 La tangente à la courbe $C_f$ au point $A$ est la droite passant par $A$ de pente (coefficient directeur) le nombre dérivé $f'(a)$. Une équation de la tangente à la courbe $C_f$ en A est : $y = f'(a)(x - a) + f(a)$
 
-- Si $f'(x) \leq 0$, alors $f$ est décroissante
-- Si $f'(x) \geq 0$, alors $f$ est croissante
+-   Si $f'(x) \leq 0$, alors $f$ est décroissante
+-   Si $f'(x) \geq 0$, alors $f$ est croissante
 
 **Exemple**
 
@@ -452,13 +452,12 @@ Le coefficient de la tangente à la courbe représentative de $f$ pour n'importe
 
 **Formulaire**
 
-|Fonction $f$                      |Dérivée $f'$                 |
-|----------------------------------|-----------------------------|
-|$f(x) = a$, $a \in R$             |$f'(x) = 0$                  |
-|$f(x) = ax$, $a \in R$            |$f'(x) = x$                  |
-|$f(x) = x^2$                      |$f'(x) = 2x$                 |
-|$f(x) = x^n$, $n \geq 1$          |$f'(x) = nx^{n-1}$           |
-|$f(x) = \frac 1 x$                |$f'(x) = - \frac 1 {x^2}$    |
-|$f(x) = \frac 1 {x^n}$, $n \geq 1$|$f'(x) = - \frac n {x^{n+1}}$|
-|$f(x) = \sqrt x$                  |$f'(x) = \frac 1 {2 \sqrt x}$|
-
+| Fonction $f$                       | Dérivée $f'$                  |
+| ---------------------------------- | ----------------------------- |
+| $f(x) = a$, $a \in R$              | $f'(x) = 0$                   |
+| $f(x) = ax$, $a \in R$             | $f'(x) = x$                   |
+| $f(x) = x^2$                       | $f'(x) = 2x$                  |
+| $f(x) = x^n$, $n \geq 1$           | $f'(x) = nx^{n-1}$            |
+| $f(x) = \frac 1 x$                 | $f'(x) = - \frac 1 {x^2}$     |
+| $f(x) = \frac 1 {x^n}$, $n \geq 1$ | $f'(x) = - \frac n {x^{n+1}}$ |
+| $f(x) = \sqrt x$                   | $f'(x) = \frac 1 {2 \sqrt x}$ |

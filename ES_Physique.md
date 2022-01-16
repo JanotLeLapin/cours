@@ -10,8 +10,8 @@ Nous allons voir dans ce chapitre l'interaction de la Terre et de son atmosphèr
 
 Rappels de géométrie utiles pour ce chapitre :
 
-- Surface d'un disque de rayon $R$ : $\pi * R^2$
-- Surface d'une sphère de rayon $R$ : $4 \pi R^2$
+-   Surface d'un disque de rayon $R$ : $\pi * R^2$
+-   Surface d'une sphère de rayon $R$ : $4 \pi R^2$
 
 ### I - Rayonnement solaire reçu par la Terre
 
@@ -31,12 +31,12 @@ La surface de rayonnements solaire captées par la Terre est celle d'un disque d
 
 **1.** Exprimer la proportion de puissance solaire reçue par la Terre $^{P_{Terre}} _ {P_{Soleil}}$ en fonction de la distance Terre-Soleil $d_{ts}$ et du rayon de la Terre $R_t$ :
 
-- $P_{soleil}$ se répartit sur une surface de $d_{ts}$ de la surface : $S_1 = 4\pi d_{ts}^2$
-- $P_{Terre}$ est capturée par la surface du disque de rayon $R_T$ : $S_2 = \pi R_T^2$
-- $^{P_{Terre}} _ {P_{soleil}} = ^{S_2} _ {S_1} = ^{\pi R_T^2} _ {4\pi d_{ts}^2} = ^{R_t^2} _ {4d_{ts}^2}$
+-   $P_{soleil}$ se répartit sur une surface de $d_{ts}$ de la surface : $S_1 = 4\pi d_{ts}^2$
+-   $P_{Terre}$ est capturée par la surface du disque de rayon $R_T$ : $S_2 = \pi R_T^2$
+-   $^{P_{Terre}} _ {P_{soleil}} = ^{S_2} _ {S_1} = ^{\pi R_T^2} _ {4\pi d_{ts}^2} = ^{R_t^2} _ {4d_{ts}^2}$
 
 **2.** En déduire la valeur de la puisance solaire reçue par la Terre $P_{Terre}$ :
-$P_{Terre} = P_{soleil} * ^{R_T^2} _ {4d_{ts}^2} = 3,86 * 10^{26} * ^{(6371 * 10^3)^2} _ {4 * (1,50 * 10^{11})^2} = 1,73 * 10^{17} W$
+$P_{Terre} = P_{soleil} \times ^{R_T^2} _ {4d_{ts}^2} = 3,86 \times 10^{26} \times ^{(6371 \times 10^3)^2} _ {4 \times (1,50 \times 10^{11})^2} = 1,73 \times 10^{17} W$
 
 #### 2 - Puissance surfacique solaire sur Terre
 
@@ -44,7 +44,7 @@ La Terre tourne sur elle-même et donc la puissance reçue par le soleil se rép
 
 Déterminer la puissance surfacique moyenne (par unité de surface) reçue par la Terre, notée $P_s$, en $W.m^{-2}$
 
-$P_s = ^{P_{Terre}} _ {S_{Terre}} = ^{P_{Terre}} _ {4 \pi R_T ^ 2} = ^{1,73 * 10 ^ {17}} _ {4 \pi * (6371 * 10 ^ 5) ^ 2} = 339 W.m ^ {-2}$
+$P_s = ^{P_{Terre}} _ {S_{Terre}} = ^{P_{Terre}} _ {4 \pi R_T ^ 2} = ^{1,73 \times 10 ^ {17}} _ {4 \pi \times (6371 \times 10 ^ 5) ^ 2} = 339 W.m ^ {-2}$
 
 #### 3 - Albédo terrestre
 
@@ -94,7 +94,7 @@ La vapeur d'eau et le dioxyde de carbone sont des gaz à effet de serre, ils abs
 
 ##### Sachant que l'atmosphère absorbe 20% de la puissance solaire, déterminer la puissance surfacique solaire absorbée par l'atmosphère $P_{absorbée}$
 
-$P_{absorbée} = ^{20} _ {100} * 339 = 68 W.m^{-2}$
+$P_{absorbée} = ^{20} _ {100} \times 339 = 68 W.m^{-2}$
 
 ##### En déduire la puissance surfacique solaire qui atteint la surface du sol terrestre $P_T$ reçu par $S$
 
@@ -110,11 +110,11 @@ $\lambda_{max} (m) = ^{k (K.m)} _ {T (K)}$
 
 ##### Sachant que la température moyenne à la surface de la Terre est de 15°C, déterminer le type de radiations émises par la Terre (et par son atmosphère même so emme est un peu plus froide)
 
-Constante de Wien : $k = 2,9 * 10^{-3} K.m$
+Constante de Wien : $k = 2,9 \times 10^{-3} K.m$
 
 Soit T la température en Kelvins et $\theta$ la température en degrés Celsius, on a : $T = \theta + 273$
 
-$\lambda_{max} = ^k _ T = ^{2,9 * 10^{-3}} _ {(15 + 273)} = 1,0 * 10^{-5} m$
+$\lambda_{max} = ^k _ T = ^{2,9 \times 10^{-3}} _ {(15 + 273)} = 1,0 \times 10^{-5} m$
 
 D'après le spectre 1, la Terre émet des infrarouges.
 
@@ -132,11 +132,11 @@ Les activités humaines dégagent du dioxyde de carbone, ce qui renforce l'effet
 
 ## Chapitre 5
 
-- **Un atome** est une entité électriquement neutre constituant la matière constitué d'un noyau chargé positivement autour duquel gravitent des électrons chargés négativement.
+-   **Un atome** est une entité électriquement neutre constituant la matière constitué d'un noyau chargé positivement autour duquel gravitent des électrons chargés négativement.
 
-- **Une molécule** est un édifice électriquement neutre constitué d'un assemblage d'atomes liés entre eux par des liaisons covalentes
+-   **Une molécule** est un édifice électriquement neutre constitué d'un assemblage d'atomes liés entre eux par des liaisons covalentes
 
-- **Un ion** est une entité atomique ou moléculaire chargée positivement (cations) ou négativement (anions) suite à une perte/un gain d'électron ou de proton
+-   **Un ion** est une entité atomique ou moléculaire chargée positivement (cations) ou négativement (anions) suite à une perte/un gain d'électron ou de proton
 
 ### I. De la structure microscopique aux propriétés macroscopiques
 
@@ -164,11 +164,11 @@ Oui, on y voit des cubes
 
 **5. On appelle halite le sel minier trouvé dans des mines de sel. Grâce au logiciel "Minusc", le professeur affiche au tableau une maille de cristal de sel (halite) en représentation 3D compacte puis éclatée.**
 
-*a. Quel est l'intérêt de la représentation éclatée ?*
+_a. Quel est l'intérêt de la représentation éclatée ?_
 
-*b. Quelle est la géométrie de la maille de sel ?*
+_b. Quelle est la géométrie de la maille de sel ?_
 
-*c. Conclusion sur la structure microscopique de sel :*
+_c. Conclusion sur la structure microscopique de sel :_
 
 Le sel est constituée d'ions chlorure et d'ions sodium placés en alternance au sein d'un réseau de mailles cubiques.
 
@@ -186,8 +186,8 @@ De la forme initiale de la maille élémentaire.
 
 **3. À l'aide du logiciel Minusc, vérifier la forme de maille de l'aragonite et de la calcite.**
 
-- Aragonite : orthorombique
-- Calcite : rhomboédrique
+-   Aragonite : orthorombique
+-   Calcite : rhomboédrique
 
 **4. Pourquoi dit-on que l'aragonite et le calcite sont deux minéraux différents ? À quoi est-ce dû ?**
 
@@ -195,13 +195,12 @@ Ce sont des cristaux différents car ils n'ont pas les mêmes propriétés physi
 
 **5. Classer les composants du moins dur au plus dur : cuivre, apatite, aragonite, calcite, gypse**
 
-- Gypse
-- Calcite
-- Cuivre
-- Aragonite
-- Apatite
+-   Gypse
+-   Calcite
+-   Cuivre
+-   Aragonite
+-   Apatite
 
 **6. Conclure sur ce qui détermine les propriétés macroscopiques des minéraux.**
 
 Elles sont déterminées par la composition du cristal et la forme de la maille élémentaire.
-
