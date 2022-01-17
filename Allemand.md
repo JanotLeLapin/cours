@@ -55,5 +55,5 @@ Wenn ich habe eine woche ohne Handy, ich aus gehen und mit meine Freunde spielen
 - Christian : Er ist dafür / einverstanden. Jugendliche würden sich mehr für Politik interessieren ! Die Gesellschaft wird immer älter. Wir brauchen mehr Platz für die junge Generation ! Wenn 16-jähr das Wahlrecht hätten, hätten wir jüngere Politiker.
 - Sie ist eher dagegen (eher = plutôt). Die 16-Jährigen haben einige Rechte nicht (nicht heiraten dürten) Sie sind unter der Verantwortung igrer Eltern (sour la responsabilité de leurs parents) Sie können nicht verantwortlich für ihre Mitbürger sein. (responsables de leurs concitoyens.)
 
-Ich bin dagegen. Die 16-Jährigen sind zu jung, und sie würden sich manipulieren lassen.
+Ich bin dagegen, denn ich finde die 16-Jährigen sind nicht genug reif und sie würten sich manipulieren lassen.
 
