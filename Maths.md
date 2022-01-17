@@ -360,6 +360,90 @@ $0 < q < 1$ et $u_0 > 0$.
 
 Donc $(u_n)$ est décroissante.
 
+### IV - Somme des puissances de 0 à n.
+
+**Propriété** : Soit $q \in R/^{1}$, alors la somme des puissances de q de $0$ à $n$ avec $n \in N$ :
+
+$\sum^n _ {i=0} q^i = \frac {1 - q^{n+1}} {1 - q}$
+
+**Démonstration**
+
+Soit $q \in R /^{1}$ : On note $S$ la some suivante : $S = \sum^n _ {i=0} q^i$
+
+$S = q^0 + q^1 + q^2 + q^3 + ... + q^{n-1} + q^{n}$
+
+$q \times S = q^1 + q^2 + q^3 + q^4 + ... + q^n + q^{n+1}$
+
+$S - qS = (q^0 - q^1)+(q^1 - q^2)+(q^2+q^3)+...+(q^{-1}-q^n)+(q^n-q^{n+1}) = q^0 - q^{n+1}$
+
+(C'est une somme télescopique)
+
+On a donc :
+
+$S - qS = q^0 - q^{n+1}$
+
+$\Leftrightarrow S - qS = 1 - q^{n+1}$
+
+$\Leftrightarrow S(1-q) = 1 - q^{n+1}$
+
+$\Leftrightarrow \frac {S(1-q)} {1-q} = \frac {1 - q^{n+1}} {1-q}$
+
+$\Leftrightarrow S = \frac {1 - q^{n+1}} {1-q}$
+
+**Exemple**
+
+_1_
+
+$\sum ^ 7 _ {i=0} 2^i = \frac {1-2^8} {1-2} = \frac {1-2^8} {-1} = -1 + 2^8$
+
+_2_
+
+$1 + (\frac 1 3) + (\frac 1 3)^2 + ... + (\frac 1 3)^9 = \sum^9 _ {i=0} (\frac 1 3)^i = \frac {1 - \frac 1 3^{10}} {1 - \frac 1 3}$
+
+_3_
+
+Soit $(u_n)_ {n \in N}$ une suite géométrique de raison $4$ et de premier terme $u_0 = 3$
+
+La somme des 13 premiers termes de $(u_n)$
+
+Pour tout $n \in N$ : $u_n = 3 \times 4^n$
+
+$\sum^{12} _ {i=0} u_i = \sum^{12} _ {i=0} 3 \times 4^i$
+
+$= 3 \times 4^0 + 3 \times 4^1 + 3 \times 4^2 + ...+ 3 \times 4^{12}$
+
+$= 3 \times (4^0 + 4^1 + 4^2 + ... + 4^{12})$
+
+$= 3 \times \sum^{12} _ {i=0} 4^i$
+
+$= 3 \times \frac {1-4^{13}} {1-4}$
+
+### Exercices
+
+**Exercice 9**
+
+Calculer les sommes suivantes :
+
+$S_3 = 1 - 2 + 4 - 8 + ... + 32 - 64$
+
+$S_3 = \sum^8 _ {i=0} -2$
+
+**Exercice 10**
+
+1 : Soit $(u_n) _ {n \in N}$ la suite géométrique de raison $\frac 4 5$ et de premier terme : 10. Calculer la somme des 10 premiers termes de la suite $(u_n) _ {n \in N}$
+
+$S = 10 \times (\frac 4 5)^0 + 10 \times (\frac 4 5)^1 + ... + 10 \times (\frac 4 5)^9$
+
+$= 10 \times ((\frac 4 5)^0 + (\frac 4 5)^1 + ... + (\frac 4 5)^9)$
+
+$= 10 \times \sum^9 _ {i=0} (\frac 4 5)^i$
+
+$= 10 \times (\frac {1-(\frac 4 5)^{10}} {1 - \frac 4 5})$
+
+$= 10 \times (1 - (\frac 4 5)^{10}) \times \frac 5 1 = 50(1 - (\frac 4 5)^{10})$
+
+2 : Soit $(v_n) _ {n \in N}$ la suite géométrique de raison 2 et de premier terme : -9. Calculer la somme des 15 premiers termes de la suite $(v_n) _ {n \in N}$
+
 ## Fonction du second degré
 
 **Définition**
@@ -461,3 +545,16 @@ Le coefficient de la tangente à la courbe représentative de $f$ pour n'importe
 | $f(x) = \frac 1 x$                 | $f'(x) = - \frac 1 {x^2}$     |
 | $f(x) = \frac 1 {x^n}$, $n \geq 1$ | $f'(x) = - \frac n {x^{n+1}}$ |
 | $f(x) = \sqrt x$                   | $f'(x) = \frac 1 {2 \sqrt x}$ |
+
+## Questions de calcul
+
+Définie sur : $R$ *
+
+$f(x) = \frac {-2x^2} x = \frac {-2 \times x \times x} x = -2x$
+
+Déterminer le taux de variations de $f$ entre $-1$ et $-1 + h$ avec $h \in R$ *
+
+$\frac {f(-1+h) - f(-1)} h = \frac {-2h + 2 - 2} h = \frac {-2 \times h} h = -2$
+
+$\lim\limits_{h \to 0} \frac {f(-1+h) - f(-1)} h = \lim\limits_{h \to 0} -2 = -2 = f'(-1)$
+
