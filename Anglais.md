@@ -18,3 +18,34 @@ Secret: founder of WikiLeaks, an online platform for whistleblowers. They reveal
 
 ### Watch a video made by Anonymous, and brainstorm what you understand.
 
+Consequences
+
+- Homeless dying on the streets
+- Students can no longer afford their education
+- Unemployment skyrocketing
+
+Actions
+
+- Declares war on the UK
+- ?
+
+UK government
+
+- Ensures the poor remain poor and the rich remain rich
+- Greedy
+
+Video
+
+- Reveals as little information as possible
+- Speech
+
+Anonymous
+
+- A threat to the UK government, an organized and globally active group.
+
+Demands
+
+- ?
+- ?
+- ?
+
