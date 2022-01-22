@@ -49,3 +49,21 @@ Demands
 - ?
 - ?
 
+## FBI vs Hacker
+
+FBI : Federal Bureau of Investigation
+
+#### FBI agent
+
+- Seems professional : he wears a suit, he sate straight and used his hands to show he was attentive.
+- The biggest threate are people with bad intetions
+- He says you should choose the companies that keep your data carefully
+
+#### Member of anonymous
+
+- He doesn't sit straigh (he slouches), he wore his head in his head. He seems casual. A punk.
+- The biggest threat for him are the FBI, the NSA and the CIA
+- He says people need to have long passwords, and a different one for each web account.
+
+I think the hacktivist is the most convincing, mainly because we can easily guess that the FBI agent's speech is biaised by his work for the governement. Unlike the hacktivist who speaks his mind, the FBI agent only says what would give the best impression to his company.
+
