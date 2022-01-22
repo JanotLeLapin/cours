@@ -123,3 +123,72 @@ $\tau = t_b - t_a$
 Où $\tau$ représente le retard et $t_b$ et $t_a$ les instants de passage de l'onde en A et B au même point de perturbation.
 
 Application : Une onde méfcanique se propage le long d'une corde. Elle atteint A à un instant $t_a = 30$ s et arrive au même point de sa perturbation en B à $t_b = 40$ s. Calculer le retard de l'onde.
+
+### TP Première : Mesure de la célérité du son dans l'air
+
+Protocole :
+
+- Mettre les récepteurs exactement au même point de la règle graduée pour que les deux signaux soient en phase
+- Reculer un des récepteurs jusqu'à ce que les deux signaux soient décalés de exactement $x$ longueurs d'ondes
+- Calculer la différence entre les points des deux récepteurs sur la règle graduée divisée par $x$
+
+Application :
+
+On recule le récepteur $A$ de 10 longueurs d'ondes puis on calcule la différence entre le point du récepteur $A$ ($0mm$) et le point du récepteur $B$ ($80mm$) divisée par $10$ : $\lambda$ vaut 8mm
+
+#### Exercice 6
+
+Dans ce contexte, l'onde se propage sur les individus et la perturbation est le mouvement que ces individus effectuent.
+
+#### Exercice 8
+
+Le retard avec lequel l'onde atteint un point à 240cm de sa source vaut $\frac v {240cm}$.
+
+Comme $v = 4.5 m \cdot s^{-1}$
+
+Alors le retard $r$ vaut $r = \frac {4.5 m \cdot s^{-1}} {240cm}$
+
+$\Leftrightarrow \frac {450 cm \cdot s^{-1}} {240cm} = \frac {45} {24}s = \frac {15} {8}s$
+
+#### Définition
+
+Pour une perturbation, on utilisera le mot célérité afin de désigner la vitesse de propagation de l'onde.
+
+$V (m \cdot s^{-1}) = \frac {d_{AB} (m)} {t (s)}$
+
+#### Exercice 14 page 330
+
+**Données**
+
+Distance $d = 6.5km = 6500m$
+
+Célérité du son dans le rail en acier $V = 5600m \cdot s^{-1}$
+
+Retard $\tau = \frac d V = \frac {6500m} {5600m \cdot s^{-1}} = \frac {65} {56}s$
+
+L'onde prend donc $\frac {65} {56}s$ pour atteindre l'oreille depuis le train en passant par le rail en acier.
+
+Célérité du son dans l'air $V_{air} = 340m \cdot s^{-1}$
+
+Retard $\tau_{air} = \frac d {V_{air}} = \frac {6500m} {340m \cdot s^{-1}} = \frac {650} {34}s$
+
+L'onde prend donc $\frac {650} {34}s$ pour atteindre l'oreille depuis le train en passant par l'air.
+
+#### Exercice 16 page 331
+
+**Données**
+
+$V = 240 km \cdot h^-1$
+
+$d = 38km$
+
+**Formule**
+
+$V = \frac d \tau$
+
+$\tau = \frac d V = \frac {38} {240} = 0.158h$
+
+$0.158 \times 60 = 9.48min$
+
+Les habitants ont donc 9.48 minutes pour évacuer.
+
