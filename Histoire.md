@@ -26,4 +26,23 @@ La révolution française de février 1848 provoque une onde de choc dans toute 
 
 Après ces premiers succès, le mouvement révolutionnaire s'affaiblit et subit la répression. De nombreux leaders sont exécutés, les princes imposent de nouveau leurs pouvoirs. Le bilan de ces mouvements.
 
+Comment les français prennent des habitudes démocratiques malgré le régime autoritaire du second empire ?
+
+### I - La courte expérience de la IIème République
+
+La révolution de février 1848 chasse définitivement la monarchie, mais l'installation d'une république durable est difficile. Les révolutionnaires revendiquent des droits politiques, plus de libertés, mais aussi des droits sociaux, ce qui est nouveau. Cette seconde république instaure le suffrage universel masculin. L'esclavage est aboli, des ateliers nationaux sont ouverts pour les ouvriers. Les élections donnent la majorité aux modérés et aux royalistes. Ces conservateurs ferment les ateliers nationaux, les ouvriers se révoltent en juin 1848, la répression est sévère. Une loi réduit l'accès au vote, il faut résider depuis 3 ans dans la commune pout être inscrit, cette loi vise directement les ouvriers, très mobiles à l'époque.
+
+La constitution avait prévu la séparation des pouvoirs entre législatives et un président élu au suffrage universel pour l'exécutif. Louis Napoléon Bonaparte est le premier président élu au suffrage universel direct avec 75% des votes, un mandat unique est prévu, Bonaparte refuse cette situation. Le 2 décembre 1851, il fait un coup d'État, la résistance existe mais elle est faible. Bonaparte organise des plébicites pour associer le peuple à sa décision et fondent le second empire.
+
+### II - Le second empire : un régime autoritaire
+
+Élu président pour un seul mandat en 1848, Louis Napoléon Bonaparte refuse de rendre le pouvoir et organise un coup d'État le 2 décembre 1851. Il se fait sacrer Empereur des français après un plébicit qui approuve cette décision.
+
+#### En quoi le second empire est-il un régime autoritaire ?
+
+Il devient Empereur sous le titre de Napoléon III, il se place ainsi dans une succession dynastique. Il met en avant son lien avec Napoléon Ier et présente son fils comme futur successeur (légitimité dynastique). Le suffrage universel masculin est rétabli, les lois obligeant à résider depuis 3 ans dans une commune sont abolies. Un plébiscite approuve la prise du pouvoir. Le vote est secret mais l'isoloir n'existe pas encore. La nouvelle Constitution
+
+Napoléon III prétend représenter le peuple, il restaure de suffrage universel masculin et organise régulièrement des élections mais les préfets désignent des candidats officiels, ces élections ne sont pas démocratiques. Napoléon III déclare que "l'Empire c'est la paix", par opposition à son nom. L'état intervient pour développer l'économie.
+
+Le second empire limite les libertés, en particulier la liberté d'expression. Les résistances aux coups d'État ont été faibles, les républicains sont censurés, certains sont emprisonnés d'autres s'exilent
 
