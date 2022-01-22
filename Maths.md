@@ -534,17 +534,96 @@ $\lim\limits_{h \to 0} \frac {f(a+h) - f(a)} h = \lim\limits_{h \to 0} 2a + h = 
 
 Le coefficient de la tangente à la courbe représentative de $f$ pour n'importe quelle abscisse $a$ vaut $2a$.
 
-**Formulaire**
+## Fonctions dérivées en point de vue global
 
-| Fonction $f$                       | Dérivée $f'$                  |
-| ---------------------------------- | ----------------------------- |
-| $f(x) = a$, $a \in R$              | $f'(x) = 0$                   |
-| $f(x) = ax$, $a \in R$             | $f'(x) = x$                   |
-| $f(x) = x^2$                       | $f'(x) = 2x$                  |
-| $f(x) = x^n$, $n \geq 1$           | $f'(x) = nx^{n-1}$            |
-| $f(x) = \frac 1 x$                 | $f'(x) = - \frac 1 {x^2}$     |
-| $f(x) = \frac 1 {x^n}$, $n \geq 1$ | $f'(x) = - \frac n {x^{n+1}}$ |
-| $f(x) = \sqrt x$                   | $f'(x) = \frac 1 {2 \sqrt x}$ |
+### Tableau
+
+| Fonction $f$                       | Ensemble de définition | Ensemble de dérivabilité | Dérivée $f'$                   |
+| ---------------------------------- | ---------------------  | ------------------------ | ------------------------------ |
+| $f(x) = ax + b$                    | $R$                    | $R$                      |  $f'(x) = a$                   |
+| $f(x) = ax$                        | $R$                    | $R$                      |  $f'(x) = a$                   |
+| $f(x) = a$                         | $R$                    | $R$                      |  $f'(x) = 0$                   |
+| $f(x) = x$                         | $R$                    | $R$                      |  $f'(x) = 1$                   |
+| $f(x) = x^2$                       | $R$                    | $R$                      |  $f'(x) = 2x$                  |
+| $f(x) = x^n$, $n \in Z$            | $R$                    | $R$                      |  $f'(x) = nx^{n-1}$            |
+| $f(x) = \frac 1 x$                 |                        |                          |  $f'(x) = - \frac 1 {x^2}$     |
+| $f(x) = \frac 1 {x^n}$, $n \geq 1$ |                        |                          |  $f'(x) = - \frac n {x^{n+1}}$ |
+| $f(x) = \sqrt x$                   |                        |                          |  $f'(x) = \frac 1 {2 \sqrt x}$ |
+
+**Rappel**
+
+Soit $f$ une fonction définie sur un intervalle $I$ avec $I \in R$ et soit $a \in I$. Soit $h \in R/$ * tel que $a+h \in I$ alors la dérivée de $f$ en $a$ vaut : $f'(a) = \lim\limits_{h \to 0} {\frac {f(a+h)-f(a)} h}$
+
+**Définition**
+
+Soit $f$ une fonction définie sur un intervalle $I$ tel que $I \in R$. On dit que $f$ est dérivable sur $I$ si pour tout $a \in I$, $f$ est dérivable en $a$. On définit alors la fonction dérivée de $f$, notée $f'$ qui est définie par $f' : x \to f'(x)$
+
+### I - Fonctions dérivées usuelles
+
+**Propriété**
+
+Soit $f$ une fonction affine définie sur $R$ par $f(x) = ax + b$ avec $a$ et $b$ des réels fixés. Alors $f$ est dérivable sur $R$ et ou $a$ pour tout $x \in R$ :
+
+$f'(x) = a$
+
+**Démonstration**
+
+- Soit $f$ une fonction affine définie sur $R$ par $f(x) = ax + b$ avec $a$ et $b$ des réels fixés.
+- Soit $x \in R$ et $h \in R$ * calculons le taux de variations de $f$ entre $x$ et $x+h$
+
+- $\frac {f(x+h) - f(x)} h = \frac {a(x+h)+b - (ax + b)} h = \frac {ax + ah + b - ax - b} h = \frac {ah} a = a$
+- $\lim\limits_{h \to 0} \frac {f(x+h) - f(x)} h = \lim\limits_{h \to 0} a = a = f'(x)$
+
+Ainsi pour tout $x \in R$ :
+
+$f'(x) = a$
+
+**Remarques et cas particuliers**
+
+- Pour tout $x \in R$, on définit $f(x) = ax$ une fonction linéaire : donc $f$ est dérivable sur $R$ et pour tout $x \in R$ : $f'(x) = a$
+- Pour tout $x \in R$, on définit $f'(x) = k$ avec $k$ un réel fixé (fonction constante). Donc $f$ est dérivable sur $R$ et en $a$ pour tout $x \in R$ : $f'(x) = 0$
+- Soit la fonction identité définie sur $R$ par $f(x) = x$. Alors $f$ est dérivable sur $R$ et pour tout $x \in R$ : $f'(x) = 1$
+
+**Exemples**
+
+On considère les fonctions suivantes. Déterminer pour chaque fonction sa dérivabilité, son ensemble de dérivabilité, et sa dérivée (abus de langage : fonction dérivée)
+
+- $f(x) = -4 + 3 + \pi$, $f'(x) = 0$
+- $g(x) = \frac {7x} 3 = 7x \times \frac 1 3 = \frac 7 3 x$, $f'(x) = \frac 7 3$
+- $h(x) = \frac {6x^2 + 5x} x = \frac {x(6x + 5)} x = 6x + 5$, $f'(x) = 6$
+- $j(x) = -2(\sqrt 2 + x) = -2 \sqrt 2 - 2x$, $f'(x) = -2$
+
+**Propriété**
+
+On considère la fonction carrée définie sur $R$ par : $f(x) = x^2$
+
+Alors $f$ est dérivable sur $R$ et pour tout $x \in R$ : $f'(x) = 2x$
+
+**Démonstration**
+
+$\frac {f(x+h)-f(x)} h = \frac {(x+h)^2 - x^2} h = \frac {x^2 + 2xh + h^2 - x^2} h = \frac {2xh + h^2} h = \frac {h(2x + h)} h = 2x + h$
+
+$\lim\limits_{h \to 0} \frac {f(x+h)-f(x)} h = \lim\limits_{h \to 0} 2x + h = 2x = f'(x)$
+
+**Propriété (admise)**
+
+Soit $n \in Z$ (l'ensemble des entiers relatifs : entiers positifs, négatifs ou nul). On considère la fonction puissance $n$ définie sur $R$ par : $f(x) = x^n$.
+
+Alors $f$ est dérivable sur $R$ : et en a pour tout $x \in R$ : $f'(x) = nx^{n-1}$
+
+**Exemples**
+
+Même énoncé qu'à l'exemple précédent :
+
+$f(x) = x^7$, $f'(x) = 7x^6$
+
+$g(x) = \frac {x^2} {x^{11}} = x^{-9}$, $f'(x) = -9x^{-8}$
+
+**Propriété**
+
+On considère la fonction racine carrée définie sur $R_+$ par : $f(x) = \sqrt x$.
+
+Alors $f$ est dérivable sur $R ^ * _ +$ et en $a$ pour tout $x \in R ^ * _ +$ : $f'(x) = \frac 1 {2 \sqrt x}$
 
 ## Questions de calcul
 
