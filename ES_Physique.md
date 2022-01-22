@@ -204,3 +204,41 @@ Ce sont des cristaux différents car ils n'ont pas les mêmes propriétés physi
 **6. Conclure sur ce qui détermine les propriétés macroscopiques des minéraux.**
 
 Elles sont déterminées par la composition du cristal et la forme de la maille élémentaire.
+
+1 :
+
+$p_{po} = 9.15 g.cm^{-3}$
+
+2 :
+
+$p_{Ag} = \frac {multiplicité(Ag) \times m_{Ag}} {a_{Ag}^3}$
+
+$p_{Ag} = \frac {4 \times 1.79 \times 10^{-25}} {(409 \times 10^{12})^3} = 1.05 \times 10^4 kg.m^{-3}$
+
+$p_{Ag} = \frac {1.05 \times 10^4 kg} {1m^3} = \frac {1.05 \times 10^4 \times 10^3g} {1000 \times 1000cm^3} = 10.5 g.cm^{-3}$
+
+L'argent est donc plus dense que le polonium car sa masse volumique est plus élevée
+
+La compacité est toujours comprise entre 0 et 1.
+
+$C = \frac {multiplicité \times V_a} {V_{maille}} = \frac {multiplicité \times \frac 4 3 \pi \times r^3} {a^3}$
+
+$V_{sphere} = \frac 4 3 \pi r^3$
+
+**Applications**
+
+_1. Grâce à l'example du polorium, déterminer la compacité, d'un système cubique simple._
+
+On sait que la compacité $C$ vaut $\frac {multiplicité \times \frac 4 3 \pi r^3} {a^3}$ car ici, dans le cas CS $a = 2 \times r$
+
+$C = \frac {1 \times \frac 4 3 \pi R_{po}^3} {2^3 \times R_{po}^3} = \frac {1 \times \frac 4 3 \pi} {2^3}$
+
+$C = \frac {\frac 4 8 \pi} 8 = 0.52$
+
+_2. Grâce à l'exemple de l'argent, déterminer la compacité d'une maille cubique faces carrées._
+
+
+$C = \frac {1 \times \frac 4 3 \pi R_{po}^3} {(\frac {4R_{Ag}} {\sqrt 2})}$
+
+$C = \frac {4 \times \frac 4 3 \pi \times R_{Ag}^3} {\frac {4^3} {\sqrt 2 ^3} \times R_{Ag}^3}$
+
