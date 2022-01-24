@@ -865,8 +865,8 @@ class="math inline">\(n \in Z\)</span></td>
 </tr>
 <tr class="odd">
 <td><span class="math inline">\(f(x) = \frac 1 x\)</span></td>
-<td></td>
-<td></td>
+<td><span class="math inline">\(R\)</span> *</td>
+<td><span class="math inline">\(R\)</span> *</td>
 <td><span class="math inline">\(f&#39;(x) = - \frac 1
 {x^2}\)</span></td>
 </tr>
@@ -880,8 +880,8 @@ class="math inline">\(n \geq 1\)</span></td>
 </tr>
 <tr class="odd">
 <td><span class="math inline">\(f(x) = \sqrt x\)</span></td>
-<td></td>
-<td></td>
+<td><span class="math inline">\(R+\)</span></td>
+<td><span class="math inline">\(R+\)</span></td>
 <td><span class="math inline">\(f&#39;(x) = \frac 1 {2 \sqrt
 x}\)</span></td>
 </tr>
@@ -1021,6 +1021,80 @@ class="math inline">\(R ^ * _ +\)</span> et en <span
 class="math inline">\(a\)</span> pour tout <span class="math inline">\(x
 \in R ^ * _ +\)</span> : <span class="math inline">\(f&#39;(x) = \frac 1
 {2 \sqrt x}\)</span></p>
+<p><strong>Propriété</strong></p>
+<p>On considère la fonction inverse définie sur <span
+class="math inline">\(R\)</span> * par : <span
+class="math inline">\(f(x) = \frac 1 x\)</span></p>
+<p>Alors la fonction <span class="math inline">\(f\)</span> est
+dérivable sur <span class="math inline">\(R\)</span> * et pour tout
+<span class="math inline">\(x \in R\)</span> * : <span
+class="math inline">\(f&#39;(x) = - \frac 1 {x^2}\)</span></p>
+<p><strong>Démonstration</strong></p>
+<p>On considère <span class="math inline">\(f\)</span> définie sur <span
+class="math inline">\(R\)</span> * : par <span
+class="math inline">\(f(x) = \frac 1 x\)</span>.</p>
+<p>Soit <span class="math inline">\(x \in R\)</span> * et <span
+class="math inline">\(h \in R\)</span> * et tel que <span
+class="math inline">\(x + h \in R\)</span>. Calculons le taux de
+variations de <span class="math inline">\(f\)</span> entre <span
+class="math inline">\(x\)</span> et <span
+class="math inline">\(x+h\)</span></p>
+<p><span class="math inline">\(\frac {f(x+h) - f(x)} h = \frac {\frac 1
+{x+h} \frac 1 x} h\)</span></p>
+<p><span class="math inline">\(= \frac 1 h \times (\frac 1 {x+h} - \frac
+1 x)\)</span></p>
+<p><span class="math inline">\(= \frac 1 h \times (\frac x {x(x+h)} -
+\frac {x + h} {x(x+h)})\)</span></p>
+<p><span class="math inline">\(= \frac 1 h \times (\frac {x - (x+h)}
+{x(x+h)})\)</span></p>
+<p><span class="math inline">\(= \frac 1 h \times \frac {-h} {x^2 +
+xh}\)</span></p>
+<p><span class="math inline">\(= \frac {-1} {x^2 + xh}\)</span></p>
+<p><span class="math inline">\(\lim\limits_{h \to 0} \frac {-1} {x^2 +
+xh} = \frac {-1} {x^2}\)</span></p>
+<p>Donc pour tout <span class="math inline">\(x \in R\)</span> * : <span
+class="math inline">\(f&#39;(x) = - \frac 1 {x^2}\)</span></p>
+<h2 id="ii---opérations-sur-les-fonctions-dérivées">II - Opérations sur
+les fonctions dérivées</h2>
+<p><strong>Propriété</strong></p>
+<p>Soit <span class="math inline">\(u\)</span> une fonction définie sur
+<span class="math inline">\(D_u (D_u \subset) R\)</span> et <span
+class="math inline">\(v\)</span> une fonction définie sur <span
+class="math inline">\(D_v (D_v \subset R)\)</span>, alors la fonction
+somme de <span class="math inline">\(u\)</span> et <span
+class="math inline">\(v\)</span>, définie par : <span
+class="math inline">\(f(x) = u(x) + v(x)\)</span> sur <span
+class="math inline">\(D_u \cap D_v\)</span> est dérivable sur <span
+class="math inline">\(D_u \cap D_v\)</span> et en <span
+class="math inline">\(a\)</span> pour tout <span class="math inline">\(x
+\in D_u \cap D_v\)</span> :</p>
+<p><span class="math inline">\(f&#39;(x) = u&#39;(x) +
+v&#39;(x)\)</span></p>
+<p><strong>Exemples</strong></p>
+<p>Déterminer les ensembles de définitions, de dérivabilité et les
+fonctions dérivées des fonctions suivantes :</p>
+<p><span class="math inline">\(f(x) = x^3 + 2x - 5\)</span></p>
+<p><span class="math inline">\(u(x) = x^3\)</span>, <span
+class="math inline">\(v(x) = 2x - 5\)</span></p>
+<ul>
+<li><span class="math inline">\(u\)</span> est une fonction puissance 3,
+définie sur <span class="math inline">\(R\)</span>, dérivable sur <span
+class="math inline">\(R\)</span> et pour tout <span
+class="math inline">\(x \in R\)</span> : <span
+class="math inline">\(u&#39;(x) = 3x^2\)</span></li>
+<li><span class="math inline">\(v\)</span> est une fonction afine,
+définie et dérivable sur <span class="math inline">\(R\)</span> pour
+tout <span class="math inline">\(x \in R\)</span> : <span
+class="math inline">\(v&#39;(x) = 2\)</span></li>
+<li><span class="math inline">\(f\)</span> est la somme de <span
+class="math inline">\(u\)</span> et <span
+class="math inline">\(v\)</span> donc définie et dérivable sur <span
+class="math inline">\(R (R \cap R = R)\)</span> et pour tout <span
+class="math inline">\(x \in R\)</span> :</li>
+</ul>
+<p><span class="math inline">\(f&#39;(x) = u&#39;(x) +
+v&#39;(x)\)</span></p>
+<p><span class="math inline">\(f&#39;(x) = 3x^2 + 2\)</span></p>
 <h2 id="questions-de-calcul">Questions de calcul</h2>
 <p>Définie sur : <span class="math inline">\(R\)</span> *</p>
 <p><span class="math inline">\(f(x) = \frac {-2x^2} x = \frac {-2 \times
@@ -1033,5 +1107,12 @@ h\)</span> avec <span class="math inline">\(h \in R\)</span> *</p>
 2 - 2} h = \frac {-2 \times h} h = -2\)</span></p>
 <p><span class="math inline">\(\lim\limits_{h \to 0} \frac {f(-1+h) -
 f(-1)} h = \lim\limits_{h \to 0} -2 = -2 = f&#39;(-1)\)</span></p>
+<h4 id="déterminer-si-ces-suites-sont-géométriques">Déterminer si ces
+suites sont géométriques</h4>
+<p>Pour tout <span class="math inline">\(n \in N\)</span> :</p>
+<p><span class="math inline">\(u_n = \frac {(-2)^{4n + 1} \times 3}
+7\)</span></p>
+<p><span class="math inline">\(u_{n+1} / u_n = \frac {(-2)^{4(n+1)+1}
+\times 3} 7\)</span></p>
 </body>
 </html>
