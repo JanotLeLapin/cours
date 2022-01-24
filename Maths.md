@@ -546,9 +546,9 @@ Le coefficient de la tangente à la courbe représentative de $f$ pour n'importe
 | $f(x) = x$                         | $R$                    | $R$                      |  $f'(x) = 1$                   |
 | $f(x) = x^2$                       | $R$                    | $R$                      |  $f'(x) = 2x$                  |
 | $f(x) = x^n$, $n \in Z$            | $R$                    | $R$                      |  $f'(x) = nx^{n-1}$            |
-| $f(x) = \frac 1 x$                 |                        |                          |  $f'(x) = - \frac 1 {x^2}$     |
+| $f(x) = \frac 1 x$                 | $R$ *                  | $R$ *                    |  $f'(x) = - \frac 1 {x^2}$     |
 | $f(x) = \frac 1 {x^n}$, $n \geq 1$ |                        |                          |  $f'(x) = - \frac n {x^{n+1}}$ |
-| $f(x) = \sqrt x$                   |                        |                          |  $f'(x) = \frac 1 {2 \sqrt x}$ |
+| $f(x) = \sqrt x$                   | $R+$                   | $R+$                     |  $f'(x) = \frac 1 {2 \sqrt x}$ |
 
 **Rappel**
 
@@ -625,6 +625,58 @@ On considère la fonction racine carrée définie sur $R_+$ par : $f(x) = \sqrt 
 
 Alors $f$ est dérivable sur $R ^ * _ +$ et en $a$ pour tout $x \in R ^ * _ +$ : $f'(x) = \frac 1 {2 \sqrt x}$
 
+**Propriété**
+
+On considère la fonction inverse définie sur $R$ * par : $f(x) = \frac 1 x$
+
+Alors la fonction $f$ est dérivable sur $R$ * et pour tout $x \in R$ * : $f'(x) = - \frac 1 {x^2}$
+
+**Démonstration**
+
+On considère $f$ définie sur $R$ * : par $f(x) = \frac 1 x$.
+
+Soit $x \in R$ * et $h \in R$ * et tel que $x + h \in R$. Calculons le taux de variations de $f$ entre $x$ et $x+h$
+
+$\frac {f(x+h) - f(x)} h = \frac {\frac 1 {x+h} \frac 1 x} h$
+
+$= \frac 1 h \times (\frac 1 {x+h} - \frac 1 x)$
+
+$= \frac 1 h \times (\frac x {x(x+h)} - \frac {x + h} {x(x+h)})$
+
+$= \frac 1 h \times (\frac {x - (x+h)} {x(x+h)})$
+
+$= \frac 1 h \times \frac {-h} {x^2 + xh}$
+
+$= \frac {-1} {x^2 + xh}$
+
+$\lim\limits_{h \to 0} \frac {-1} {x^2 + xh} = \frac {-1} {x^2}$
+
+Donc pour tout $x \in R$ * : $f'(x) = - \frac 1 {x^2}$
+
+## II - Opérations sur les fonctions dérivées
+
+**Propriété**
+
+Soit $u$ une fonction définie sur $D_u (D_u \subset) R$ et $v$ une fonction définie sur $D_v (D_v \subset R)$, alors la fonction somme de $u$ et $v$, définie par : $f(x) = u(x) + v(x)$ sur $D_u \cap D_v$ est dérivable sur $D_u \cap D_v$ et en $a$ pour tout $x \in D_u \cap D_v$ :
+
+$f'(x) = u'(x) + v'(x)$
+
+**Exemples**
+
+Déterminer les ensembles de définitions, de dérivabilité et les fonctions dérivées des fonctions suivantes :
+
+$f(x) = x^3 + 2x - 5$
+
+$u(x) = x^3$, $v(x) = 2x - 5$
+
+- $u$ est une fonction puissance 3, définie sur $R$, dérivable sur $R$ et pour tout $x \in R$ : $u'(x) = 3x^2$
+- $v$ est une fonction afine, définie et dérivable sur $R$ pour tout $x \in R$ : $v'(x) = 2$
+- $f$ est la somme de $u$ et $v$ donc définie et dérivable sur $R (R \cap R = R)$ et pour tout $x \in R$ :
+
+$f'(x) = u'(x) + v'(x)$
+
+$f'(x) = 3x^2 + 2$
+
 ## Questions de calcul
 
 Définie sur : $R$ *
@@ -636,4 +688,12 @@ Déterminer le taux de variations de $f$ entre $-1$ et $-1 + h$ avec $h \in R$ *
 $\frac {f(-1+h) - f(-1)} h = \frac {-2h + 2 - 2} h = \frac {-2 \times h} h = -2$
 
 $\lim\limits_{h \to 0} \frac {f(-1+h) - f(-1)} h = \lim\limits_{h \to 0} -2 = -2 = f'(-1)$
+
+#### Déterminer si ces suites sont géométriques
+
+Pour tout $n \in N$ :
+
+$u_n = \frac {(-2)^{4n + 1} \times 3} 7$
+
+$u_{n+1} / u_n = \frac {(-2)^{4(n+1)+1} \times 3} 7$
 
