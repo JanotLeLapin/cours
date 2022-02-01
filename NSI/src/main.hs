@@ -45,4 +45,3 @@ main = do
 
   putStrLn "## Exercice 6 ##"
   putStrLn $ formateNomPrenom "Joseph Daly"
-  putStrLn $ formateNomPrenom "DAUMONT pierre"

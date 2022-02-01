@@ -46,3 +46,5 @@ Napoléon III prétend représenter le peuple, il restaure de suffrage universel
 
 Le second empire limite les libertés, en particulier la liberté d'expression. Les résistances aux coups d'État ont été faibles, les républicains sont censurés, certains sont emprisonnés d'autres s'exilent
 
+Napoléon III doit faire face à une opposition républiquaine qui se renforce. Adolphe Tiers est un dirigeant des républicains modéré, il veut que l'État respecte les droits des citoyens et évite les actes arbitraires. Un État de droit est un État qui respecte la loi. Il réclame la liberté d'expression, les progrès techniques profitent à la presse, on peut imprimer des journaux à un faible coût et les diffuser. Une opinion publique nationale se forme. Il demande ensuite des libertés politiques, les élections doivent être libres.
+

@@ -57,3 +57,57 @@ Wenn ich habe eine woche ohne Handy, ich aus gehen und mit meine Freunde spielen
 
 Ich bin dagegen, denn ich finde die 16-Jährigen sind nicht genug reif und sie würten sich manipulieren lassen.
 
+**Lexique**
+
+- Vichtig : important
+
+**Résumé**
+
+- Felix travaille dans une garderie où il organise et dirige des matches de foot.
+- Nina travaille dans un abri pour sdf
+- Johanna travaille dans un parc naturel où elle protège des espèces menacées.
+- Sabine travaille dans un zoo.
+
+### Exercices
+
+#### 1 s. 103
+
+- entdecken
+- kochen
+- spülen
+- verfolgt
+
+#### 2 s. 103
+
+- armen Scülern Schulmaterialen verteilen
+- Senioren Hilfe erleben
+- tolle Abenteuer leisten
+- ein asiastisches Land entdecken
+- als Freiwilliger arbeiten
+
+#### 3 s. 103
+
+- obdachlos sein - Decken verteilen
+- einsam leben - unterhalten
+- auf der Flucht sein - aufnehmen
+- behindert sein - bis zur Schule begleiten
+- schechte Noten in Mathe haben - Nachhilfe geben
+
+#### 4 s. 103
+
+Mein Brüder möchte sich als Bufdi engagieren. Er ist sehr hilfsbereit und möchte Senioren helfen. Er kümmert sich schon oft um unsere Großmutter, sie fühlt sich nicht mehr so einsam, weil er zu im kommt. Er spült Geschirr und räumt ihr Wohnzimmer. Er wird sich nach dem Abi bewerben, um wor dem Studium eine erfarhung zu haben.
+
+#### Lexique
+
+- begleiten : accompagner
+- verfolgt : persécuter
+- schenken : offrir
+- schützen : protéger
+- aufnehmen : accueillir
+- zeigen : montrer
+
+#### Manuel p.100
+
+- Zare ist ein Flüchtling aus Eritrea und familie Mattenklot sind seine Integrationspaten. Sie helfen Zare bei seiner Integration in Deutschland. Sie zeigen ihm den Alltag in Deutschlan. Sie verbringen mit ihm Zeit. Er isst bei inhen um Abendessen. Er färht auch in Ferien mot. Sie nehmen ihn mit inn den Urlaub.
+- Zare kommt aus Eitrea. Er hat seine Heimat mit 15 verlassen. Er ist geflohen / geflüchtet, vielleicht vot dem Krieg oder weil er verfolgt wurde. Er ist also ein Flüchtling. Er war monatelang auf der Flucht. / Er kam nach 8 Monaten nach Deutschland.
+

@@ -67,3 +67,29 @@ FBI : Federal Bureau of Investigation
 
 I think the hacktivist is the most convincing, mainly because we can easily guess that the FBI agent's speech is biaised by his work for the governement. Unlike the hacktivist who speaks his mind, the FBI agent only says what would give the best impression to his company.
 
+## Territory and Memory
+
+```
+Territory and Memory
+|- War
+   |- Civil War US
+   |- Vietnam War
+   |- Pearl Harbor
+|- Colonization
+   |- Decolonization
+|- Race
+   |- Racism
+|- Discovery
+   |- Christopher Colombus
+   |- Conquest
+|- Art
+|- Flag
+|- Terror
+|- Monuments
+|- The last of the Mohicans
+```
+
+### First Peoples, Then and Now
+
+
+

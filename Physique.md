@@ -192,3 +192,82 @@ $0.158 \times 60 = 9.48min$
 
 Les habitants ont donc 9.48 minutes pour évacuer.
 
+### IV - Ondes mécaniques périodiques
+
+#### Définition
+
+Une onde mécanique est dite périodique quand la perturbation se répète à l'identique sur un intervalle de temps régulier (période).
+
+Une longueur d'onde correspond à la distance parcourue par une onde ayant une célérité $v$ pendant une période temporelle $T$.
+
+On la calcule : $\lambda = v \times T$
+
+### Exercices
+
+#### 17 p. 331
+
+1) Ces signaux sont associés aux battements du coeur
+2) Ce sont des signaux ~~sonores~~ sismiques
+3) On peut considérer qu'ils sont périodiques car elles se répètent sur un intervalle de temps régulier à l'identique
+4) $\frac {14} 5 \times 250 = 700$ correction : $\frac {145} {40} \times 250 = 906.25$ms
+5) Fréquence = $\frac 1 T = 1 {0.906} = 1.10Hz$
+
+#### 19 p. 331
+
+1) Ce signal a une allure sinusoïdale
+2) On peut déterminer la période
+3) $f = \frac 1 T = \frac 1 {2.5 \times 10^{-6}} = 40000$Hz
+4) $\lambda = v \times T = 340 \times 2.5 \times 10^{-6} = 8.5 \times 10^{-4}m$
+
+## TP Oxydoréduction
+
+**Définitions**
+
+- oxydant : espèce chimique capable de gagner des électrons. C'est l'espcèe qui subit une réduction.
+- réducteur : espèce chimique capable de perdre des électrons. C'est l'espèce qui subit une oxydation.
+- couple redox : couple de deux espèces, un oxydant et un réducteur. On dit que les espèces sont conjuguées.
+- réaction d'oxydoréduction : réaction mettant en jeu deux couples $Ox_1/Red_1$ et $Ox_2/Red_2$ dans laquelle l'oxydant de l'un oxyde le réducteur de l'autre.
+
+$Ox_1 + Red_2 \to Ox_2 + Red_1$
+
+Le sens de la réduction se fait selon le potentiel de chaque couple et la règle dite du $\gamma$
+
+
+**Demiéquations**
+
+La demiéquation d'un couple Ox/Red est la relation telle que :
+$Ox + ne^- \Leftrightarrow Red$ avec $ne^-$ le nombre d'électrons.
+Passer du membre gauche au membre droit est une réduction, l'inverse est une oxydation.
+
+$Cu^{2+} _ {(aq)} / Cu_{(s)} : Cu^{2+} _ {(aq)} + 2e^- \Leftrightarrow Cu_{(s)}$
+
+Vérification par test d'identification :
+
+$yFe^{2+} _ {(aq)} + zHO^- _ {(aq)} \to Fe(OH) _ {x(s)}$
+
+$1Fe^{2+} _ {(aq)} + 2HO^- _ {(aq)} \to Fe(OH) _ {2(s)}$
+
+Hydroxyde de Fer II solide vert
+
+- $I_2 / I^-$ : $I_2 - 2e \Leftrightarrow 2I^-$
+- $Fe^{3+} / Fe^{2+}$ : $Fe^{3+} - e \Leftrightarrow Fe^{2+}$
+- $Zn^{2+} / Zn$ : $Zn^{2+} - 2e \Leftrightarrow Zn$
+- $Cu^{2+} / Cu$ : $Cu^{2+} - 2e \Leftrightarrow Cu$
+
+**Quelles sont les couples Ox/Red en jeu ?** L'oxydant est $kI$ et le réducteur est $FeCl_3$
+
+**Demi-équation**
+
+- $I_2 + 2e^- \to 2I^-$
+- $Fe^{+3} + e^- \to Fe^{2+}$
+
+**Equation bilan**
+
+$2I^- \to I_2 + 2e^- + Fe^{3+} + e^- \to Fe^{2+} \times 2 = 2I^- + 2Fe^{3+} \to I_2 + 2Fe^{2+}$
+
+**Comment vérifier** On ajoute du soude, puis on vérifie si la couleur de la solution est verte
+
+**Équation de la réaction de vérification**
+
+$Fe^{2+} + 2OH^- \to Fe(OH) _ 2$
+

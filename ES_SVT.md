@@ -39,3 +39,5 @@ Puisque la Terre est sphérique, la surface du sol s'incline progressivement de 
 
 *a) Variations en fonction de l'heure*
 
+La proportion d'énergie utilisée par la feuille pour réaliser la photosynthèse n'est que de 1%
+
