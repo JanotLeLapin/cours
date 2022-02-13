@@ -677,6 +677,52 @@ $f'(x) = u'(x) + v'(x)$
 
 $f'(x) = 3x^2 + 2$
 
+**Propriété**
+
+Soit $k \in R$ et $u$ une fonction définie sur $D_u$ tel que $D_u \subset R$
+
+Soit $v$ la fonction définie par : $v(x) = k \times u(x)$.
+
+Alors $v$ est définie et dérivable sur $D_u$ et pour tout $x \in D_u$ :
+
+$v'(x) = k \times u'(x)$
+
+**Exemples**
+
+Soit $f$ définie sur $R$ par :
+
+$f(x) = -7x^{11}$
+
+Déterminer la dérivabilité de $f$ ainsi que sa dérivée.
+
+On pose :
+- $k = -7$
+- $u(x) = x^{11}$
+- $u$ est une fonction constante, elle est donc définie et dérivable sur $R$ et pour tout $x \in R$ : $u'(x) + 11x^{10}$
+- $f$ est le produit de $k$ et de $u$, elle est donc définie et dérivable sur $R$ et pour tout $x \in R$ :
+
+$f'(x) = -7 \times 11x^{10} = -77x^{10}$
+
+$g(x) = \frac 2 {3x^7} = \frac 2 3 \times x^{-7}$
+
+$g(x)$ est le produit de $\frac 2 3$ par la fonction puissance -7
+
+$g'(x)$ définie et dérivable sur $R$ * vaut donc $-\frac {14} 3 x^{-8}$
+
+Soit $h$ définie sur $R ^ * _ +$ par :
+
+$h(x) = \frac 1 x + 5 \sqrt x - \frac x 2$
+
+**Propriété**
+
+Soient 2 fonctions $u$ et $v$ définies et dérivables respectivement sur $D_u$ et $D_v$.
+
+Soit $f$ le produit de $u$ et $v$.
+
+Alors $f$ est définie et dérivable sur $D_u \cap D_v$ et pour tout $x \in D_u \cap D_v$ :
+
+$f'(x) = u'(x) \times v(x) + u(x) \times v'(x)$
+
 ## Questions de calcul
 
 Définie sur : $R$ *
