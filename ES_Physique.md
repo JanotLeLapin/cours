@@ -242,3 +242,7 @@ $C = \frac {1 \times \frac 4 3 \pi R_{po}^3} {(\frac {4R_{Ag}} {\sqrt 2})}$
 
 $C = \frac {4 \times \frac 4 3 \pi \times R_{Ag}^3} {\frac {4^3} {\sqrt 2 ^3} \times R_{Ag}^3}$
 
+Conclusion sur l'audio :
+
+Plus la fréquence d'un son est élevée, plus le son est aigu.
+
