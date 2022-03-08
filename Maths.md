@@ -90,7 +90,7 @@ $x = 5$
 
 ### I - Définition et généralités
 
-**Définition** : Soit $(u_n) _ {n \in N}$ une suite, et soit $q \in R$ un réel fixé. La suite $(u_n)$ est dite _géométrique de raison $q$_ si pour tout $n \in N$ : $u _ {n+1} = u_n \times q$
+**Définition** : Soit $(u_n) _{n \in N}$ une suite, et soit $q \in R$ un réel fixé. La suite $(u_n)$ est dite_géométrique de raison $q$_si pour tout $n \in N$ : $u_ {n+1} = u_n \times q$
 
 **Exemples** :
 
@@ -114,7 +114,7 @@ $u_{n+1} = 2 \times 3^{(n+1)} = 2 \times 3^n \times 3^1 = 3 \times (2 \times 3^n
 
 La suite est donc géométrique et de raison 3
 
-#### Montrer qu'une suite n'est pas géométrique.
+#### Montrer qu'une suite n'est pas géométrique
 
 Soit $(v_n) _ {n \in N}$ définie par :
 
@@ -242,14 +242,14 @@ $v_7 = 3,834 \times 10^{-12}$
 
 _1_
 
--   $u_1 = -4$
--   $u_2 = -28$
+- $u_1 = -4$
+- $u_2 = -28$
 
-On sait que pour $(u_n) _ {n \in N}$ une suite géométrique, $q = \frac {u_{n+1}} {u_n}$
+On sait que pour $(u_n) _{n \in N}$ une suite géométrique, $q = \frac {u_{n+1}} {u_n}$
 
 Donc $q = \frac {u_2} {u_1} = \frac {-28} {-4} = 7$
 
-On sait aussi que pour $(u_n) _ {n \in N}$ une suite géométrique, $u_n = \frac {u_{n+1}} q$
+On sait aussi que pour $(u_n) _{n \in N}$ une suite géométrique, $u_n = \frac {u_{n+1}} q$
 
 Donc $u_0$ vaut $\frac {u_1} q = \frac {-4} 7$
 
@@ -257,8 +257,8 @@ Ainsi $u_n = - \frac 4 7 \times 7^n$
 
 _2_
 
--   $u_5 = \frac 1 3$
--   $u_7 = \frac 1 {27}$
+- $u_5 = \frac 1 3$
+- $u_7 = \frac 1 {27}$
 
 $q = \frac 1 3$
 
@@ -268,8 +268,8 @@ $u_n = 81 \times 1/3 ^ n$
 
 _3_
 
--   $u_{10} = 8$
--   $u_8 = 2$
+- $u_{10} = 8$
+- $u_8 = 2$
 
 Calculons la raison
 
@@ -343,8 +343,8 @@ Une suite monotone est une suite croissante ou décroissante.
 
 Soit $(u_n) _ {n \in N}$ définie par :
 
--   $u_0 = 1$
--   $u_{n+1} = \frac {u_n} 3$
+- $u_0 = 1$
+- $u_{n+1} = \frac {u_n} 3$
 
 Déterminer le sens de variations de cette suite.
 
@@ -360,7 +360,7 @@ $0 < q < 1$ et $u_0 > 0$.
 
 Donc $(u_n)$ est décroissante.
 
-### IV - Somme des puissances de 0 à n.
+### IV - Somme des puissances de 0 à n
 
 **Propriété** : Soit $q \in R/^{1}$, alors la somme des puissances de q de $0$ à $n$ avec $n \in N$ :
 
@@ -408,7 +408,7 @@ La somme des 13 premiers termes de $(u_n)$
 
 Pour tout $n \in N$ : $u_n = 3 \times 4^n$
 
-$\sum^{12} _ {i=0} u_i = \sum^{12} _ {i=0} 3 \times 4^i$
+$\sum^{12} _{i=0} u_i = \sum^{12}_ {i=0} 3 \times 4^i$
 
 $= 3 \times 4^0 + 3 \times 4^1 + 3 \times 4^2 + ...+ 3 \times 4^{12}$
 
@@ -430,7 +430,7 @@ $S_3 = \sum^8 _ {i=0} -2$
 
 **Exercice 10**
 
-1 : Soit $(u_n) _ {n \in N}$ la suite géométrique de raison $\frac 4 5$ et de premier terme : 10. Calculer la somme des 10 premiers termes de la suite $(u_n) _ {n \in N}$
+1 : Soit $(u_n) _{n \in N}$ la suite géométrique de raison $\frac 4 5$ et de premier terme : 10. Calculer la somme des 10 premiers termes de la suite $(u_n)_ {n \in N}$
 
 $S = 10 \times (\frac 4 5)^0 + 10 \times (\frac 4 5)^1 + ... + 10 \times (\frac 4 5)^9$
 
@@ -442,7 +442,7 @@ $= 10 \times (\frac {1-(\frac 4 5)^{10}} {1 - \frac 4 5})$
 
 $= 10 \times (1 - (\frac 4 5)^{10}) \times \frac 5 1 = 50(1 - (\frac 4 5)^{10})$
 
-2 : Soit $(v_n) _ {n \in N}$ la suite géométrique de raison 2 et de premier terme : -9. Calculer la somme des 15 premiers termes de la suite $(v_n) _ {n \in N}$
+2 : Soit $(v_n) _{n \in N}$ la suite géométrique de raison 2 et de premier terme : -9. Calculer la somme des 15 premiers termes de la suite $(v_n)_ {n \in N}$
 
 ## Fonction du second degré
 
@@ -458,13 +458,13 @@ Où les coefficients $a$, $b$ et $c$ sont des réels données avec $a \neq 0$
 
 Les trois fonctions suivantes sont des fonctions polynômes de degré 2.
 
--   $f(x) = 3x^2 - 7x + 3$ avec $a = 3$, $b = -7$ et $c = 3$
--   $g(x) = \frac 1 2 x^2 - 5x + \frac 3 5$ avec $a = \frac 1 2$, $b = -5$ et $c = \frac 3 5$
--   $h(x) = 4 - 2x^2$ avec $a = -2$, $b = 0$ et $c = 4$
+- $f(x) = 3x^2 - 7x + 3$ avec $a = 3$, $b = -7$ et $c = 3$
+- $g(x) = \frac 1 2 x^2 - 5x + \frac 3 5$ avec $a = \frac 1 2$, $b = -5$ et $c = \frac 3 5$
+- $h(x) = 4 - 2x^2$ avec $a = -2$, $b = 0$ et $c = 4$
 
 La fonction suivante est une fonction polynôme de degré 2 sous sa forme factorisée :
 
--   $k(x) = (x - 4)(5 - 2x)$
+- $k(x) = (x - 4)(5 - 2x)$
 
 En la développant, on multiplie $x$ par $2x$ ce qui nous donne $2x^2$, à savoir un monôme du second degré.
 
@@ -476,8 +476,8 @@ $f(x) = a(x - \alpha)^2 + \beta$
 
 Où $\alpha$ et $\beta$ sont deux nombres réels.
 
--   Si $a > 0$, $f$ admet un minimum pour $x = \alpha$. Ce minimum est égal à $\beta$.
--   Si $a < 0$, $f$ admet un maximum pour $x = \alpha$. Ce maximul est égal à $\beta$.
+- Si $a > 0$, $f$ admet un minimum pour $x = \alpha$. Ce minimum est égal à $\beta$.
+- Si $a < 0$, $f$ admet un maximum pour $x = \alpha$. Ce maximul est égal à $\beta$.
 
 $f(x) = ax^2 + bx + c$
 $f$ admet un maximum ou un minimum pour : $\alpha = - \frac b {2a}$
@@ -512,8 +512,8 @@ Le coefficient directeur de la droite (AB) est égal à : $\frac {f(b)-f(a)} {b-
 
 Soit A et M deux points de la courbe représentative de $f$ d'abscisses respectives $a$ et $a+h$.
 
--   Le coefficient directeur de la droite (AM) est égal à : $\frac {f(a+h)-f(a)} {a+h-a} \Leftrightarrow \frac {f(a+h)-f(a)} h$
--   Le coefficient directeur de la tangente vaut $\lim\limits_{h \to 0} \frac {f(a+h)-f(a)} h$.
+- Le coefficient directeur de la droite (AM) est égal à : $\frac {f(a+h)-f(a)} {a+h-a} \Leftrightarrow \frac {f(a+h)-f(a)} h$
+- Le coefficient directeur de la tangente vaut $\lim\limits_{h \to 0} \frac {f(a+h)-f(a)} h$.
 
 On dit que la fonction $f$ est _dérivable_ en $a$ s'il existe un nombre réel $L$ tel que : $\lim\limits_{h \to 0} \frac {f(a+h) - f(a)} h = L$
 
@@ -521,8 +521,8 @@ $L$ est appelé le _nombre dérivé_ de $f$ en $a$ et se note $f'(a)$
 
 La tangente à la courbe $C_f$ au point $A$ est la droite passant par $A$ de pente (coefficient directeur) le nombre dérivé $f'(a)$. Une équation de la tangente à la courbe $C_f$ en A est : $y = f'(a)(x - a) + f(a)$
 
--   Si $f'(x) \leq 0$, alors $f$ est décroissante
--   Si $f'(x) \geq 0$, alors $f$ est croissante
+- Si $f'(x) \leq 0$, alors $f$ est décroissante
+- Si $f'(x) \geq 0$, alors $f$ est croissante
 
 **Exemple**
 
@@ -623,19 +623,19 @@ $g(x) = \frac {x^2} {x^{11}} = x^{-9}$, $f'(x) = -9x^{-8}$
 
 On considère la fonction racine carrée définie sur $R_+$ par : $f(x) = \sqrt x$.
 
-Alors $f$ est dérivable sur $R ^ * _ +$ et en $a$ pour tout $x \in R ^ * _ +$ : $f'(x) = \frac 1 {2 \sqrt x}$
+Alors $f$ est dérivable sur $R ^ *_ +$ et en $a$ pour tout $x \in R ^* _ +$ : $f'(x) = \frac 1 {2 \sqrt x}$
 
 **Propriété**
 
 On considère la fonction inverse définie sur $R$ * par : $f(x) = \frac 1 x$
 
-Alors la fonction $f$ est dérivable sur $R$ * et pour tout $x \in R$ * : $f'(x) = - \frac 1 {x^2}$
+Alors la fonction $f$ est dérivable sur $R$ *et pour tout $x \in R$* : $f'(x) = - \frac 1 {x^2}$
 
 **Démonstration**
 
 On considère $f$ définie sur $R$ * : par $f(x) = \frac 1 x$.
 
-Soit $x \in R$ * et $h \in R$ * et tel que $x + h \in R$. Calculons le taux de variations de $f$ entre $x$ et $x+h$
+Soit $x \in R$ *et $h \in R$* et tel que $x + h \in R$. Calculons le taux de variations de $f$ entre $x$ et $x+h$
 
 $\frac {f(x+h) - f(x)} h = \frac {\frac 1 {x+h} \frac 1 x} h$
 
@@ -696,6 +696,7 @@ $f(x) = -7x^{11}$
 Déterminer la dérivabilité de $f$ ainsi que sa dérivée.
 
 On pose :
+
 - $k = -7$
 - $u(x) = x^{11}$
 - $u$ est une fonction constante, elle est donc définie et dérivable sur $R$ et pour tout $x \in R$ : $u'(x) + 11x^{10}$
@@ -735,7 +736,7 @@ $\frac {f(-1+h) - f(-1)} h = \frac {-2h + 2 - 2} h = \frac {-2 \times h} h = -2$
 
 $\lim\limits_{h \to 0} \frac {f(-1+h) - f(-1)} h = \lim\limits_{h \to 0} -2 = -2 = f'(-1)$
 
-#### Déterminer si ces suites sont géométriques
+### Déterminer si ces suites sont géométriques
 
 Pour tout $n \in N$ :
 
@@ -743,3 +744,36 @@ $u_n = \frac {(-2)^{4n + 1} \times 3} 7$
 
 $u_{n+1} / u_n = \frac {(-2)^{4(n+1)+1} \times 3} 7$
 
+### Exercices probabilités
+
+#### Exercice 2
+
+1. Déterminer $P_E(V); P_V(E)$ et $P_{\bar E} (V)$ et écrire les résulats en décrivant ces probabilités
+
+   - $P_E(V)$ La probabilité que le dessert soit à la vanille en sachant que le dessert est un éclair
+   - $P_V(E)$ La probabilité que le dessert soit un éclair en sachant que le dessert est à la vanille
+   - $P_{\bar E}(V)$ La probabilité que le dessert soit à la vanille en sachant que le dessert soit une tartelette
+
+2. La probabilité qu'un dessert au chocolat soit un éclair est de $\frac{13}{21}$
+
+#### Exercice 3
+
+1. Calculer $P(G)$ et $P(F)$
+
+    - $P_(G)$ $\frac{3}{3}$
+    - $P_(F)$ $\frac{9}{23}$
+
+2. Déterminer $P_M(F) ; P_F(M)$ et $P_F(A)$
+
+    - $P_M(F)$ La probabilité que le joueur soit français en sachant qu'il est au milieu
+    - $P_F(M)$ La probabilité que le joueur joue au milieu en sachant qu'il est français
+    - $P_F(A)$ La probabilité que le joueur soit attaquant en sachant qu'il est français
+
+3. Déterminer $P_G(\bar F) ; P_{\bar F}(D) ; P_{G \cup D}(F)$ et $P_{\bar F}(M \cup A)$
+
+   - $P_G(\bar F)$ La probabilité que le joueur soit étranger en sachant qu'il est gardien
+   - $P_{\bar F}(D)$ La probabilité que le joueur soit défenseur en sachant qu'il est étranger
+   - $P_{G \cup D}(F)$ La probabilité que le joueur soit français en sachant qu'il est soit gardien soit défenseur
+   - $P_{\bar F}(M \cup A)$ La probabilité que le joueur soit milieu ou attaquant en sachant qu'il est étranger
+
+4. Trouver une probabilité conditionnelle égale à $\frac 5 8$ : $P_{\bar F}(D)$
