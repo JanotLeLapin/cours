@@ -723,6 +723,24 @@ Alors $f$ est définie et dérivable sur $D_u \cap D_v$ et pour tout $x \in D_u 
 
 $f'(x) = u'(x) \times v(x) + u(x) \times v'(x)$
 
+**Propriété**
+
+Soit $u$ une fonction définie et dérivable sur $D_u$.
+
+On considère la fonction $f$ définie par $f(x) = \frac 1 {u(x)}$
+
+**Propriété (admise)**
+
+Soient deux fonctions $u$ et $v$ définies et dérivables sur les ensembles réels respectifs $D_u$ et $D_v$. Soit $f$ la fonction quotient de $u$ par $v$ définie par : $f(x) = \frac {u(x)} {v(x)}$ sur l'ensemble $E$ définie par l'ensemble des $x \in D_u \cap D_v$ tels que : $v(x) =/= 0$. Alors $f$ est dérivable sur $E$ et pour tout $x \in E$ :
+
+$f'(x) = \frac {u'(x) \times v(x) - u(x) \times v'(x)} {v^2}$
+
+**Exemple**
+
+On considère la fonction $f$ définie par : $f(x) = \frac {\sqrt x} {2x^2 - 18}
+
+Déterminer l'ensemble de définition, de dérivabilité de f et déterminer sa fonction dérivée
+
 ## Questions de calcul
 
 Définie sur : $R$ *
@@ -742,4 +760,37 @@ Pour tout $n \in N$ :
 $u_n = \frac {(-2)^{4n + 1} \times 3} 7$
 
 $u_{n+1} / u_n = \frac {(-2)^{4(n+1)+1} \times 3} 7$
+
+## Proba
+
+- Une expérience est dite aléatoire si elle conduit à différents résultats possibles dont on ne sait pas lequel va se produire lorsqu'on répète l'expérience de façon identique.
+- Un résultat possible d'un expérience aléatoire est appelé une issue.
+- L'ensemble des issues d'une expérience aléatoire est appelé univers et se note $\Omega$ (on lit "oméga")
+- Un événement est une partie de l'univers $\Omega$.
+- Un événement qui ne contient aucune issue est appelé un événement impossible.
+
+$p(\bar A) = 1 - A$
+
+$P_A (B) = \frac {P(A) \cap B)} {P(A)}$
+
+### Exos
+
+#### Exercice 1
+
+##### 1
+
+- $P_C(B)$ : la probabilité que le résultat soit égal à 2 en sachant que le résultat est inférieur ou égal à 4.
+- $P_A(\bar B)$ : la probabilité que le résultat soit différent de 2 en sachant que le résultat est pair.
+
+##### 2
+
+- $P_C(A)$
+- $P_A(C)$
+- $P_A(\bar C)$
+
+#### Exercice 2
+
+- $P_E(V) = 7/20$
+- $P_V(E) = 7/18$
+- $P_{\bar E}(V) = 11/19$
 
