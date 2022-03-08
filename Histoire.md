@@ -48,3 +48,7 @@ Le second empire limite les libertés, en particulier la liberté d'expression. 
 
 Napoléon III doit faire face à une opposition républiquaine qui se renforce. Adolphe Tiers est un dirigeant des républicains modéré, il veut que l'État respecte les droits des citoyens et évite les actes arbitraires. Un État de droit est un État qui respecte la loi. Il réclame la liberté d'expression, les progrès techniques profitent à la presse, on peut imprimer des journaux à un faible coût et les diffuser. Une opinion publique nationale se forme. Il demande ensuite des libertés politiques, les élections doivent être libres.
 
+#### Les interventions françaises et l'unité italienne
+
+Le second Empire multiplie les interventions militaires pour redonner à la France un role internationnal. Il s'agit d'interventions de type colonnial, au Mexique par exemple, les puissances européennes s'intéressent au territoire africain ou asiatique, elle souhaite étendre leurs zones d'influence. Les empires coloniaux (la conquête de l'Algérie). D'autres expéditions se déroulent en Europe comme l'expédition de Crimée, contre l'Empire Russe. Il s'agit d'équilibrer les puissances européennes, les combats sont particulièrement violents en Crimée avec l'amélioration des armes à feu. Cela donne naissance à la croix rouge.
+
