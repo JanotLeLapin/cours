@@ -91,5 +91,36 @@ Territory and Memory
 
 ### First Peoples, Then and Now
 
+```
+Video
+|- History
+|- Future of native children
+|- Wind River reservation
+   |- Fishing hunting
+   |- 2 tribes ennemies
+      |- Joined
+```
 
+A) Buffalos are useful for the Sioux because parts of their bodies are used to craft tools. The buffalo is sacred.
+
+B) Buffalos are used to make coats, food, tools and weapons. They also use them to make their homes : teepees
+
+C)
+
+1. b
+2. e
+3. h
+4. f
+5. c
+6. g
+7. d
+8. a
+
+D) Without buffaloes, Natives cannot subsist/survive.
+
+In the beginning there was only water. The creator was asking a little turtle to bring his brothers so they make up what would become California. He was then drawing rivers and mountains on the land, but they eventually got tired and were going all over the place, this triggered an earthquake and when they realized what they had done they changed their minds.
+
+coyote dumb haha
+
+**Based story**
 
