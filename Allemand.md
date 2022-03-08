@@ -111,3 +111,7 @@ Mein Brüder möchte sich als Bufdi engagieren. Er ist sehr hilfsbereit und möc
 - Zare ist ein Flüchtling aus Eritrea und familie Mattenklot sind seine Integrationspaten. Sie helfen Zare bei seiner Integration in Deutschland. Sie zeigen ihm den Alltag in Deutschlan. Sie verbringen mit ihm Zeit. Er isst bei inhen um Abendessen. Er färht auch in Ferien mot. Sie nehmen ihn mit inn den Urlaub.
 - Zare kommt aus Eitrea. Er hat seine Heimat mit 15 verlassen. Er ist geflohen / geflüchtet, vielleicht vot dem Krieg oder weil er verfolgt wurde. Er ist also ein Flüchtling. Er war monatelang auf der Flucht. / Er kam nach 8 Monaten nach Deutschland.
 
+#### Was machst du ?
+
+Ich mache mein Bett und ich räume mein Zimmer auf täglich. Ich räume die Spülmaschine auf oft und ich stauge Staub manchmal. Meine mutter putzt die Wurf fur die Katzen.
+
