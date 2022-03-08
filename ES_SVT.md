@@ -41,3 +41,13 @@ Puisque la Terre est sphérique, la surface du sol s'incline progressivement de 
 
 La proportion d'énergie utilisée par la feuille pour réaliser la photosynthèse n'est que de 1%
 
+La photosynthèse n'utilise que 0.1% de l'énergie reçue sur la planète pour fabriquer de la matière organique. Malgré cette faible proportion, la biomasse produite par photosynthèse est gigantesque.
+
+La photosynthèse est nécessaire à l'ensemble des êtres vivants. Elle produit en effet du O2 nécessaire à la respiration. Elle produit aussi de la matière organique (exemple : le glucose) qui contient de l'énergie chimique utilisable par les cellules pour assurer leur fonctionement. Elle permet d'absorber le CO2 produit par la respiration des êtres vivants, limitant ainsi l'effet de serre et donc l'élevation de la température.
+
+L'énergie chimique contenue dans les molécules organiques a été obtenue par conversion de l'énergie lumineure grâce à la photosynthèse.
+
+À chaque maillon, 10% de l'énergie de l'espèce consommée est récupérée par l'espèce consommatrice. Les herbivores récupèrent 10% de l'énergie piégée par photosynthèse et ceux qui les mangent n'en récupèrent qu'1%.
+
+Mais il y a toujours des pertes sous forme de chaleur.
+
