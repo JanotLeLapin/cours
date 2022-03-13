@@ -124,3 +124,7 @@ coyote dumb haha
 
 **Based story**
 
+Ireland is a beautiful, green country. It is known for its rolling hills and dramatic coastline. But this picturesque landscape hides a dark past. For centuries, Ireland was ruled by foreign powers. It was invaded by the Vikings in the 9th century, and by the English in the 12th century. The Irish people were subjected to ruthless suppression and exploitation.
+
+Since the 1990s, Ireland has enjoyed a period of peace and prosperity. The country has become a thriving democracy, with a strong economy. However, the legacy of its past is still evident. The Troubles in Northern Ireland, which began in the 1960s, are a reminder of the divisions that exist in the country. And the continuing influence of the Catholic Church is a legacy of the years of religious persecution.
+
