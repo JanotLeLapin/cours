@@ -806,9 +806,52 @@ $P_A (B) = \frac {P(A) \cap B)} {P(A)}$
 
 3. Déterminer $P_G(\bar F) ; P_{\bar F}(D) ; P_{G \cup D}(F)$ et $P_{\bar F}(M \cup A)$
 
-   - $P_G(\bar F)$ La probabilité que le joueur soit étranger en sachant qu'il est gardien
-   - $P_{\bar F}(D)$ La probabilité que le joueur soit défenseur en sachant qu'il est étranger
-   - $P_{G \cup D}(F)$ La probabilité que le joueur soit français en sachant qu'il est soit gardien soit défenseur
-   - $P_{\bar F}(M \cup A)$ La probabilité que le joueur soit milieu ou attaquant en sachant qu'il est étranger
+    - $P_G(\bar F)$ La probabilité que le joueur soit étranger en sachant qu'il est gardien
+    - $P_{\bar F}(D)$ La probabilité que le joueur soit défenseur en sachant qu'il est étranger
+    - $P_{G \cup D}(F)$ La probabilité que le joueur soit français en sachant qu'il est soit gardien soit défenseur
+    - $P_{\bar F}(M \cup A)$ La probabilité que le joueur soit milieu ou attaquant en sachant qu'il est étranger
 
 4. Trouver une probabilité conditionnelle égale à $\frac 5 8$ : $P_{\bar F}(D)$
+
+#### Exercice 6
+
+1. Déterminer
+
+    - $P(A)$ : La probabilité que le logement soit un appartement
+    - $P_A(S)$ : La probabilité que le logement soit habité par une seule personne en sachant qu'il s'agit d'un appartement
+    - $P_A(S) = 45% \times 80% = 36%$
+
+2. 17% des logements sont des maisons occupées par plusieurs personnes
+
+    - $P_{\bar A}(S) = 17%$
+    - $P(\bar A)$ : La probabilité que le logement soit une maison
+
+#### Exercice 9
+
+1. Arbre pondéré
+
+    ```txt
+    .
+    +-- A (0.12)
+    |   +-- B (0.73)
+    +-- _A (0.88)
+    |   +-- B (0.36)
+    ```
+
+2. Calculer
+    - $P(A \cap B) = P(A) \times P_A(B) = 0.12 \times 0.73 = 0.0876$
+    - $P(\bar A \cap B) = P(\bar A) \times P_{\bar A}(B) = 0.88 \times 0.36 = 0.3168$
+
+#### Exercice 10
+
+1. Arbre pondéré
+
+    ```txt
+    .
+    +-- S (1/6)
+    +-- _S (5/6)
+    ```
+
+2. La probabilité qu'un joueur obtienne deux 6 consécutifs est de $\frac 1 6 ^ 2$
+
+3. La probabilité qu'un joueur obtienne un seul 6 sur les deux lancés est de $\frac 1 6 \times \frac 5 6$
