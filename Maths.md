@@ -812,3 +812,20 @@ $P_A (B) = \frac {P(A) \cap B)} {P(A)}$
    - $P_{\bar F}(M \cup A)$ La probabilité que le joueur soit milieu ou attaquant en sachant qu'il est étranger
 
 4. Trouver une probabilité conditionnelle égale à $\frac 5 8$ : $P_{\bar F}(D)$
+
+#### Exercice 4
+
+1. $P(A \cap B) = 0.2 \times 0.8 = 0.16$
+2. $P_V(U) = \frac{P(V \cap U)}{P(V)} = \frac{\frac{3}{8}}{\frac{3}{4}} = \frac{\frac{3}{8}}{\frac{6}{8}} = \frac 1 2$
+3. $P(D) = 0.6$ donc $P(\bar D) = 0.4$ = $P_{\bar D}(C) = \frac{P(\bar D \cap C)}{P(D)} = \frac{0.35}{0.4}$
+4.
+   - Comme $P_M(N) = \frac{P(M \cap N)}{P(M)}$ alors $P(M \cap N) = P_M(N) \times P(M) \Leftrightarrow P(M \cap N) = 0.06 \times 0.63 = 0.0378$
+   - $P(M) - P(M \cap N) = P(M \cap \bar N) \Leftrightarrow P(M \cap \bar N) = 0.63 - 0.0378 = 0.5922$
+
+#### Exercice 5
+
+|                  |Garçons|Filles|Total|
+|------------------|-------|------|-----|
+|Demi pensionnaires|12     |16    |28   |
+|Externes          |3      |1     |4    |
+|Total             |15     |17    |32   |
