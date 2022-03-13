@@ -191,3 +191,17 @@ $V_1 = 1mL = 9 \times 10^{-3} L$
 $C(Cl^-)$ = inconnue et $V_2 = 25mL$
 
 Soit $C(Cl^-) = \frac {2.5 \times 10^{-2} \times 9 \times 10^{-3}} {25 \times 10^{-3}} = 9 \times 10^{-3} mol \cdot L^{-1}$
+
+#### Exercice 21 page 96
+
+a) Non, car $\frac 2 4$ n'est pas égal à $\frac 1 3$
+
+b) Non, car $\frac 3 4$ n'est pas égal à $\frac 4 3$
+
+c) Oui, car $\frac 8 4$ est égal à $\frac 6 3$
+
+#### Exercice 23 page 96
+
+1. L'équation bilan est la b.
+2. La concentration en diiode vaut la b.
+
