@@ -51,3 +51,5 @@ L'énergie chimique contenue dans les molécules organiques a été obtenue par 
 
 Mais il y a toujours des pertes sous forme de chaleur.
 
+La température du corps humain reste stable en permanence (37C°). Alors que la température de l'environnement est rarement égale à 37C°. Cela signifie qu'il existe un équilibre entre l'énergie thermique perdue par l'organisme et l'énergie thermique qu'il gagne. Le corps peut échanger et donc perdre ou gagner de l'énergie thermique avec son environnement par conduction, convection et rayonnement. Il peut également perdre de la chaleur par évaporation de l'eau. Par ailleurs, le métabolisme (respiration, fermentation) produit une quantité très importante de chaleur. Le bilan thermique de l'être humain est équilibré : l'énergie thermique que le corps perd est compensée par celle qu'il gagne (essentiellement due à l'énergie dégagée par le métabolisme). Globalement, la puissance thermique libérée par un être humain dans les conditions de vie courante et au repos est de l'ordre de 100W.
+
