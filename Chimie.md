@@ -205,3 +205,67 @@ c) Oui, car $\frac 8 4$ est égal à $\frac 6 3$
 1. L'équation bilan est la b.
 2. La concentration en diiode vaut la b.
 
+### Correction E30 P98
+
+#### I - Réaction entre les ions hypochlorite et les ions iodure
+
+##### Matériel
+
+- Fiole jaugée 50mL
+- Pipette jaugée 5mL
+- Poire
+- Bécher de 50mL
+- Eau distillée
+- Javel
+
+##### Protocole
+
+- Verser un peu de Javel dans le bécher
+- Prélever 5mL de Javel à l'aide de la pipette
+- Verser ces 5mL dans la fiole jaugée
+- Ajouter de l'eau distillée au $\frac 2 3$ de la fiole
+- Homogénéiser avec la biole bouchée
+- Compléter avec de l'eau distillée au trait de jauge
+- Homogénéiser
+
+##### Béchers
+
+- Erlenmayer
+- Fiole de solution S
+- Fiole de kI
+- Pipette jaugée de 20 et 10mL
+
+#### II - Détermination de la concentration en eau de Javel
+
+##### Réaction
+
+$I_{2 (aq)} + 2S_2 O^{2-} _ {3 (aq)} \rightarrow 2I^{-} _ {(aq)} + S_4 O^{2-} _ {6 (aq)}$
+
+##### Justifier Décoloration
+
+La couleur bleue donnée par l'empois d'amidon s'estompe quand le diiode est consommé.
+
+##### Réactif Limitant ?
+
+- Avant l'équivalence le réactif limitant est $S_2 O^{-2} _ 3$
+- À l'équivalence, les réactifs limitants sont introduits au proportions stoechiométriques donc les deux réactifs sont limitants
+- Après l'équivalence le réactif limitant est $I_2$
+
+##### Résultats ?
+
+D'après (2) on a $\frac {n(I_2)} 1$ = $\frac {n(S_2 O^{-2} _ 3)} 2$
+
+Or $n = C \times V$ donc $n(I_2) = \frac {C_1 \times V_{1E} 2} = \frac {0.1 \times 10 \ times 10^{-3}} 2 = 5 \times 10^{-4}$ mol
+
+##### Quantité de Matière ?
+
+Vu que des (1) les coefficients stoechiométriques de $ClO^-$ et $I_2$ sont identiques alors $n(I_2) = n(ClO^-)$ donc $n(ClO^-) = 5 \times 10^{-4}$ mol
+
+##### Concentration ?
+
+$C = \frac n V$ or
+- $n = S \times 10^{-4}$ mol
+- $V = 10 \times 10^{-3} L$
+
+Donc $[ClO^-] = \frac {5 \times 10^{-4}} {10 \times 10^{-3}} = 5 \times 10^{-3}$ mol/L
+
