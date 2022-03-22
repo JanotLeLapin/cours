@@ -872,3 +872,110 @@ $P_A (B) = \frac {P(A) \cap B)} {P(A)}$
 2. La probabilité qu'un joueur obtienne deux 6 consécutifs est de $\frac 1 6 ^ 2$
 
 3. La probabilité qu'un joueur obtienne un seul 6 sur les deux lancés est de $\frac 1 6 \times \frac 5 6$
+
+#### Exercice 12
+
+Il manque toutes les personnes ayant entre 18 et 20 ans. Donc l'union de l'ensemble des évènements considérés n'est pas égal à l'univers.
+
+#### Exercice 13
+
+Soit $A_1, A_2, A_3, A_4$ une partition possible.
+
+- $A_1 = \{ 1 \}$
+- $A_2 = \{ 2 \}$
+- $A_3 = \{ 3 \}$
+- $A_4 = \{ 4; 5; 6; 7; 8; 9; 10 \}$
+
+ou
+
+- $A_1 = \{ 1; 2; 7 \}$
+- $A_2 = \{ 3; 4 \}$
+- $A_3 = \{ 5; 6 \}$
+- $A_4 = \{ 8; 9; 10 \}$
+
+#### Exerice 14
+
+- S = Évènement des fraises
+- R = Évènement des framboises
+- B = Évènement des myrtilles
+- F = Évènement d'origine France
+
+Arbre pondéré
+
+```txt
+.
++-- S (60%)
+    +-- F (50%)
+    +-- _F (50%)
++-- R (30%)
+    +-- F (90%)
+    +-- _F (10%)
++-- B (10%)
+    +-- F (3/5)
+    +-- _F (2/5)
+```
+
+La probabilité que la barquette choisie soit une barquette de myrtilles d'origine France est de $P(C \cap F) = 10% \times \frac 3 5 = 0.1 \times \frac 3 5 = 0.06 = 6%$
+
+La probabilité que la barquette choisie ne contienne pas l'étiquette France est de $P(\bar F) = P(S \cap \bar F) + P(R \cap \bar F) + P(B \cap \bar F) = 50% \times 60% + 10% \times 30% + \frac 2 5 \times 10% = 37%$
+
+### Formule des probabilités totales
+
+#### Propriété
+
+On considère une expérience aléatoire dont l'univers est $\Omega$ et soit $A$ et $B$ deux évènements de $\Omega$. Alors $A$ et $\bar A$ forment une partition de $\Omega$ et on a :
+
+$P(B) = P(A \cap B) + P(\bar A \cap B)$
+
+#### Propriété
+
+Soit une expérience aléatoire d'univers $\Omega$ et soit $A_1, A_2, ...A_n$ une partition de l'univers et $B$ un évènement de $\Omega$.
+
+$P(B) = P(A_1 \cap B) + P(A_2 \cap B) + P(A_3 \cap B) + ... + P(A_n \cap B)$
+
+$= \Sigma ^ n _ {i=1} P(A_i \cap B)$
+
+## Chapitre 9 : Applications à la dérivation (3/3)
+
+### I - Variations de fonction
+
+#### Propriété
+
+Soit $f$ une fonction définie et dérivable sur I
+
+- Si $f$ est constante alors pour tout $x \in I$ : $f'(x) = 0$
+- Si $f$ est strictement croissante sur I alors pour tout $x \in I$ : $f'(x) > 0$.
+- Si $f$ est strictement décroissante sur I alors pour tout $x \in I$ : $f'(x) < 0$.
+
+#### Propriété (admise)
+
+Soit $f$ une fonction définie et dérivable sur un intervalle I.
+
+- Pour tout $x \in I$ : si $f'(x) \geq 0$ alors f est croissante sur $I$
+- Pour tout $x \in I$ : si $f'(x) \leq 0$ alors f est décroissante sur $I$
+- Pour tout $x \in I$ : si $f'(x) = 0$ alors f est constante
+
+#### Exemple
+
+On considère la fonction $f$ définie sur $R$ par :
+
+$f(x) = x^3 + 2x^2 - 4x + 8$
+
+Étudier les variations de $f$ sur $R$
+
+##### 1ère étape : Dérivabilité de f ?
+
+Comme $f$ est une fonction polynomiale de degré 3 alors $f$ est dérivable sur $R$ pour tout $x \in R$ :
+
+$f'(x) = 3x^2 + 4x - 4$
+
+On identifie :
+
+- $a = 3$
+- $b = 4$
+- $c = -4$
+
+Comme $\Delta > 0$ alors $f'$ admet 2 racines réelles notées $x_1$ et $x_2$ :
+
+- $x_1 = \frac {-b - \sqrt {\Delta}} {2a} = \frac {-4 - 8} 6 = \frac {-12} 6 = -2$
+- $x_2 = \frac {-b + \sqrt {\Delta}} {2a} = \frac {-4 + 8} 6 = \frac 4 6 = \frac 2 3$
