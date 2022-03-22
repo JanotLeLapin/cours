@@ -1450,5 +1450,134 @@ class="sourceCode txt"><code class="sourceCode default"><span id="cb2-1"><a href
 lancés est de <span class="math inline">\(\frac 1 6 \times \frac 5
 6\)</span></p></li>
 </ol>
+<h4 id="exercice-12">Exercice 12</h4>
+<p>Il manque toutes les personnes ayant entre 18 et 20 ans. Donc l’union
+de l’ensemble des évènements considérés n’est pas égal à l’univers.</p>
+<h4 id="exercice-13">Exercice 13</h4>
+<p>Soit <span class="math inline">\(A_1, A_2, A_3, A_4\)</span> une
+partition possible.</p>
+<ul>
+<li><span class="math inline">\(A_1 = \{ 1 \}\)</span></li>
+<li><span class="math inline">\(A_2 = \{ 2 \}\)</span></li>
+<li><span class="math inline">\(A_3 = \{ 3 \}\)</span></li>
+<li><span class="math inline">\(A_4 = \{ 4; 5; 6; 7; 8; 9; 10
+\}\)</span></li>
+</ul>
+<p>ou</p>
+<ul>
+<li><span class="math inline">\(A_1 = \{ 1; 2; 7 \}\)</span></li>
+<li><span class="math inline">\(A_2 = \{ 3; 4 \}\)</span></li>
+<li><span class="math inline">\(A_3 = \{ 5; 6 \}\)</span></li>
+<li><span class="math inline">\(A_4 = \{ 8; 9; 10 \}\)</span></li>
+</ul>
+<h4 id="exerice-14">Exerice 14</h4>
+<ul>
+<li>S = Évènement des fraises</li>
+<li>R = Évènement des framboises</li>
+<li>B = Évènement des myrtilles</li>
+<li>F = Évènement d’origine France</li>
+</ul>
+<p>Arbre pondéré</p>
+<div class="sourceCode" id="cb3"><pre
+class="sourceCode txt"><code class="sourceCode default"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>.</span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a>+-- S (60%)</span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>    +-- F (50%)</span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a>    +-- _F (50%)</span>
+<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a>+-- R (30%)</span>
+<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a>    +-- F (90%)</span>
+<span id="cb3-7"><a href="#cb3-7" aria-hidden="true" tabindex="-1"></a>    +-- _F (10%)</span>
+<span id="cb3-8"><a href="#cb3-8" aria-hidden="true" tabindex="-1"></a>+-- B (10%)</span>
+<span id="cb3-9"><a href="#cb3-9" aria-hidden="true" tabindex="-1"></a>    +-- F (3/5)</span>
+<span id="cb3-10"><a href="#cb3-10" aria-hidden="true" tabindex="-1"></a>    +-- _F (2/5)</span></code></pre></div>
+<p>La probabilité que la barquette choisie soit une barquette de
+myrtilles d’origine France est de <span class="math inline">\(P(C \cap
+F) = 10% \times \frac 3 5 = 0.1 \times \frac 3 5 = 0.06 =
+6%\)</span></p>
+<p>La probabilité que la barquette choisie ne contienne pas l’étiquette
+France est de <span class="math inline">\(P(\bar F) = P(S \cap \bar F) +
+P(R \cap \bar F) + P(B \cap \bar F) = 50% \times 60% + 10% \times 30% +
+\frac 2 5 \times 10% = 37%\)</span></p>
+<h3 id="formule-des-probabilités-totales">Formule des probabilités
+totales</h3>
+<h4 id="propriété">Propriété</h4>
+<p>On considère une expérience aléatoire dont l’univers est <span
+class="math inline">\(\Omega\)</span> et soit <span
+class="math inline">\(A\)</span> et <span
+class="math inline">\(B\)</span> deux évènements de <span
+class="math inline">\(\Omega\)</span>. Alors <span
+class="math inline">\(A\)</span> et <span class="math inline">\(\bar
+A\)</span> forment une partition de <span
+class="math inline">\(\Omega\)</span> et on a :</p>
+<p><span class="math inline">\(P(B) = P(A \cap B) + P(\bar A \cap
+B)\)</span></p>
+<h4 id="propriété-1">Propriété</h4>
+<p>Soit une expérience aléatoire d’univers <span
+class="math inline">\(\Omega\)</span> et soit <span
+class="math inline">\(A_1, A_2, ...A_n\)</span> une partition de
+l’univers et <span class="math inline">\(B\)</span> un évènement de
+<span class="math inline">\(\Omega\)</span>.</p>
+<p><span class="math inline">\(P(B) = P(A_1 \cap B) + P(A_2 \cap B) +
+P(A_3 \cap B) + ... + P(A_n \cap B)\)</span></p>
+<p><span class="math inline">\(= \Sigma ^ n _ {i=1} P(A_i \cap
+B)\)</span></p>
+<h2 id="chapitre-9-applications-à-la-dérivation-33">Chapitre 9 :
+Applications à la dérivation (3/3)</h2>
+<h3 id="i---variations-de-fonction">I - Variations de fonction</h3>
+<h4 id="propriété-2">Propriété</h4>
+<p>Soit <span class="math inline">\(f\)</span> une fonction définie et
+dérivable sur I</p>
+<ul>
+<li>Si <span class="math inline">\(f\)</span> est constante alors pour
+tout <span class="math inline">\(x \in I\)</span> : <span
+class="math inline">\(f&#39;(x) = 0\)</span></li>
+<li>Si <span class="math inline">\(f\)</span> est strictement croissante
+sur I alors pour tout <span class="math inline">\(x \in I\)</span> :
+<span class="math inline">\(f&#39;(x) &gt; 0\)</span>.</li>
+<li>Si <span class="math inline">\(f\)</span> est strictement
+décroissante sur I alors pour tout <span class="math inline">\(x \in
+I\)</span> : <span class="math inline">\(f&#39;(x) &lt; 0\)</span>.</li>
+</ul>
+<h4 id="propriété-admise">Propriété (admise)</h4>
+<p>Soit <span class="math inline">\(f\)</span> une fonction définie et
+dérivable sur un intervalle I.</p>
+<ul>
+<li>Pour tout <span class="math inline">\(x \in I\)</span> : si <span
+class="math inline">\(f&#39;(x) \geq 0\)</span> alors f est croissante
+sur <span class="math inline">\(I\)</span></li>
+<li>Pour tout <span class="math inline">\(x \in I\)</span> : si <span
+class="math inline">\(f&#39;(x) \leq 0\)</span> alors f est décroissante
+sur <span class="math inline">\(I\)</span></li>
+<li>Pour tout <span class="math inline">\(x \in I\)</span> : si <span
+class="math inline">\(f&#39;(x) = 0\)</span> alors f est constante</li>
+</ul>
+<h4 id="exemple">Exemple</h4>
+<p>On considère la fonction <span class="math inline">\(f\)</span>
+définie sur <span class="math inline">\(R\)</span> par :</p>
+<p><span class="math inline">\(f(x) = x^3 + 2x^2 - 4x + 8\)</span></p>
+<p>Étudier les variations de <span class="math inline">\(f\)</span> sur
+<span class="math inline">\(R\)</span></p>
+<h5 id="ère-étape-dérivabilité-de-f">1ère étape : Dérivabilité de f
+?</h5>
+<p>Comme <span class="math inline">\(f\)</span> est une fonction
+polynomiale de degré 3 alors <span class="math inline">\(f\)</span> est
+dérivable sur <span class="math inline">\(R\)</span> pour tout <span
+class="math inline">\(x \in R\)</span> :</p>
+<p><span class="math inline">\(f&#39;(x) = 3x^2 + 4x - 4\)</span></p>
+<p>On identifie :</p>
+<ul>
+<li><span class="math inline">\(a = 3\)</span></li>
+<li><span class="math inline">\(b = 4\)</span></li>
+<li><span class="math inline">\(c = -4\)</span></li>
+</ul>
+<p>Comme <span class="math inline">\(\Delta &gt; 0\)</span> alors <span
+class="math inline">\(f&#39;\)</span> admet 2 racines réelles notées
+<span class="math inline">\(x_1\)</span> et <span
+class="math inline">\(x_2\)</span> :</p>
+<ul>
+<li><span class="math inline">\(x_1 = \frac {-b - \sqrt {\Delta}} {2a} =
+\frac {-4 - 8} 6 = \frac {-12} 6 = -2\)</span></li>
+<li><span class="math inline">\(x_2 = \frac {-b + \sqrt {\Delta}} {2a} =
+\frac {-4 + 8} 6 = \frac 4 6 = \frac 2 3\)</span></li>
+</ul>
 </body>
 </html>
