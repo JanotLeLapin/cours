@@ -979,3 +979,102 @@ Comme $\Delta > 0$ alors $f'$ admet 2 racines réelles notées $x_1$ et $x_2$ :
 
 - $x_1 = \frac {-b - \sqrt {\Delta}} {2a} = \frac {-4 - 8} 6 = \frac {-12} 6 = -2$
 - $x_2 = \frac {-b + \sqrt {\Delta}} {2a} = \frac {-4 + 8} 6 = \frac 4 6 = \frac 2 3$
+
+## Trigonnométrie
+
+### I - Rappels
+
+Définition / propriété : Soit ABC un triangle rectangle en B tel que BCA = $\alpha$
+
+$cos(\alpha) = \frac {BC} {CA}$
+
+$sin(\alpha) = \frac {AB} {AC}$
+
+$tan(\alpha) = \frac {AB} {BC}$
+
+#### Cercle trigonométrique et radians
+
+Définition :
+
+Soit $(O ; I ; J)$ un repère orthonormé
+
+On appelle **cercle trigonométrique** le cercle $C$ de centre $O$ et de rayon $1 (= OI)$ sur lequel on distingue 2 sens de parcours, le **sens direct ou trigonométrique** qui est le sens inverse des aiguilles d'une montre et le sens indirect.
+
+Rappels : Soit $C$ un cercle de rayon $r$ :
+
+- $P_C = 2 \pi r$
+- $A_C = \pi r^2$
+
+Remarque : Pour $C$ le cercle trigonométrique :
+
+- $P_C = 2 \pi \times 1$
+- $P_C = 2 \pi$
+
+Explication / définition :
+
+Soit $(O ; I; J)$ un repère orthonormé et soit $C$ son cercle trigonométrique.
+
+Soit $(\Delta)$ la tangente à $C$ en $I$.
+
+La droite ($\Delta$) représente l'ensemble des réels. On peut donc choisir un point M sur $\Delta$ d'abscisse $x$ avec $x \in R$ Si on "enroule" la droite $\Delta$ autour de $C$ alors il va exister un point M appartenant à $C$ tel que l'arc de cercle $IM'$ = $x$ (qui est aussi égal à $IM$). On dit alors que le point $M'$ a pour **abscisse curviligne $x$.**
+
+Définition :
+
+Soit C le cercle trigonométrique et M un point du cercle C. La **mesure en radian** de l'angle IOM est égale à la longueur de l'arc de cercle IM.
+
+Cette mesure est notée **rad**.
+
+Propriété :
+
+Les mesures en radian et en degré d'un angle sont proportionnelles :
+
+|mesure en degré |360°   |180° |90°            |60°            |45°            |0°|
+|----------------|-------|-----|---------------|---------------|---------------|--|
+|mesure en radian|$2 \pi$|$\pi$|$\frac {\pi} 2$|$\frac {\pi} 3$|$\frac {\pi} 4$|0 |
+
+### Cosinus et sinus
+
+Définition/Propriété :
+
+Dans un repère orthonormé (O;I;J), soit C le cercle trigonométrique et soit M un point de C d'abscisse curviligne x avec x un réel.
+
+Alors M admet pour coordonnées dans le repère (O;I;J) :
+M(cos(x);sin(x))
+
+Remarque :
+
+Soit M' le projeté orthogonal de M sur (OI). Alors OM'M est un triangle rectangle en M'. De plus, M'OM = x.
+
+$cos(x) = \frac {OM'} {OM}$
+
+D'où $cos(x) = OM' (= \frac {OM'} 1)$
+
+Or OM' est l'abscisse de M.
+
+Exemples fondamentaux :
+
+Soit A le point d'abscisse curviligne 0. Alors A correspond à I.
+
+Or I(1;0)
+
+- $cos(0) = 1$
+- $sin(1) = 0$
+
+Soit J de coordonnées : J(0;1)
+
+Alors $cos(\frac {\pi} 2) = 0$
+
+- $cos(\frac {\pi} 2) = 0$
+- $sin(\frac {\pi} 2) = 1$
+
+Propriété :
+
+|$x$ (radian)|0|$\frac {\pi} 6$    |$\frac {\pi} 4$    |$\frac {\pi} 3$    |$\frac {\pi} 2$|
+|------------|-|-------------------|-------------------|-------------------|---------------|
+|$cos(x)$    |1|$\frac {\sqrt 3} 2$|$\frac {\sqrt 2} 2$|$\frac 1 2$        |0              |
+|$sin(x)$    |0|$\frac 1 2$        |$\frac {\sqrt 2} 2$|$\frac {\sqrt 3} 2$|1              |
+
+Propriétés :
+
+Pour tout $x \in R$ :
+
